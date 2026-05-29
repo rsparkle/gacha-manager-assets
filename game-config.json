@@ -1,0 +1,173 @@
+{
+    "Genshin Impact": {
+        "current": {
+            "version": 6.6,
+            "version_start": "2026-05-20",
+            "version_duration": 42,
+            "characters": ["Nicole", "Lohen"],
+            "is_version_duration_confirmed": true
+        },
+        "next": {
+            "version": 6.7,
+            "future_livestream_version": 7.0,
+            "version_duration": 42,
+            "characters": ["Sandrone", null],
+            "is_version_duration_confirmed": true
+        },
+        "maintenance_start": [22, 0],
+        "maintenance_duration": [5, 0],
+        "livestream_hour": [12, 0],
+        "is_livestream_predictable": true,
+        "trailer_distance": 1,
+        "servers": {
+            "America": { "uid_prefix": 6, "daily_reset": 9 },
+            "Europe": { "uid_prefix": 7, "daily_reset": 3 },
+            "Asia": { "uid_prefix": 8, "daily_reset": 20 },
+            "TW/HK/MO": { "uid_prefix": 9, "daily_reset": 20 }
+        },
+        "second_phase_hours": { "America": 17, "Europe": 11, "Asia": 4, "TW/HK/MO": 4 },
+        "abbr": "GI",
+        "process": "GenshinImpact.exe",
+        "color": "#C8922A"
+    },
+    "Honkai: Star Rail": {
+        "current": {
+            "version": 4.2,
+            "version_start": "2026-04-22",
+            "version_duration": 40,
+            "characters": ["Silver Wolf LV.999", "Evanescia"],
+            "is_version_duration_confirmed": true
+        },
+        "next": {
+            "version": 4.3,
+            "future_livestream_version": 4.4,
+            "version_duration": 44,
+            "characters": ["Mortenax Blade", null],
+            "is_version_duration_confirmed": true
+        },
+        "maintenance_start": [22, 0],
+        "maintenance_duration": [5, 0],
+        "livestream_hour": [11, 30],
+        "is_livestream_predictable": true,
+        "trailer_distance": 3,
+        "weekly_anchors": {
+            "Currency Wars": "2026-02-16T00:00:00Z",
+            "Divergent Universe": "2026-02-09T00:00:00Z"
+        },
+        "endgame_anchors": {
+            "Memory of Chaos": "2026-01-19T00:00:00Z",
+            "Pure Fiction": "2026-02-16T00:00:00Z",
+            "Apocalyptic Shadow": "2026-02-02T00:00:00Z"
+        },
+        "servers": {
+            "America": { "uid_prefix": 6, "daily_reset": 9 },
+            "Europe": { "uid_prefix": 7, "daily_reset": 3 },
+            "Asia": { "uid_prefix": 8, "daily_reset": 20 },
+            "TW/HK/MO": { "uid_prefix": 9, "daily_reset": 20 }
+        },
+        "second_phase_hours": { "America": 17, "Europe": 11, "Asia": 4, "TW/HK/MO": 4 },
+        "abbr": "HSR",
+        "process": "StarRail.exe",
+        "color": "#4A9ECD"
+    },
+    "Zenless Zone Zero": {
+        "current": {
+            "version": 2.8,
+            "version_start": "2026-05-06",
+            "version_duration": 41,
+            "characters": ["Promeia", "Starlight Billy"],
+            "is_version_duration_confirmed": true
+        },
+        "next": {
+            "version": 3.0,
+            "future_livestream_version": 3.1,
+            "version_duration": 42,
+            "characters": ["Verina", "Norma"],
+            "is_version_duration_confirmed": false
+        },
+        "maintenance_start": [22, 0],
+        "maintenance_duration": [5, 0],
+        "livestream_hour": [11, 30],
+        "is_livestream_predictable": true,
+        "trailer_distance": 4,
+        "endgame_anchors": {
+            "Shiyu Defense": "2026-02-20T00:00:00Z",
+            "Deadly Assault": "2026-02-13T00:00:00Z",
+            "Battle Trial": "2026-03-24T00:00:00Z",
+            "Threshold Simulation": "2026-02-06T00:00:00Z"
+        },
+        "servers": {
+            "America": { "uid_prefix": 6, "daily_reset": 9 },
+            "Europe": { "uid_prefix": 7, "daily_reset": 3 },
+            "Asia": { "uid_prefix": 8, "daily_reset": 20 },
+            "TW/HK/MO": { "uid_prefix": 9, "daily_reset": 20 }
+        },
+        "second_phase_hours": { "America": 17, "Europe": 11, "Asia": 4, "TW/HK/MO": 4 },
+        "abbr": "ZZZ",
+        "process": "ZenlessZoneZero.exe",
+        "color": "#C9D400"
+    },
+    "Neverness To Everness": {
+        "current": {
+            "version": 1.0,
+            "version_start": "2026-04-29",
+            "version_duration": 35,
+            "characters": ["Nanally", "Hotori"],
+            "is_version_duration_confirmed": true
+        },
+        "next": {
+            "version": 1.1,
+            "future_livestream_version": 1.2,
+            "version_duration": 35,
+            "characters": ["Lacrimosa", "Chaos"],
+            "is_version_duration_confirmed": true
+        },
+        "is_livestream_predictable": false,
+        "maintenance_start": [22, 0],
+        "maintenance_duration": [6, 0],
+        "livestream_hour": [11, 30],
+        "livestream_date": null,
+        "trailer_distance": 1,
+        "servers": {
+            "America": { "uid_prefix": null, "daily_reset": 9 },
+            "Europe": { "uid_prefix": null, "daily_reset": 3 },
+            "Asia": { "uid_prefix": null, "daily_reset": 21 }
+        },
+        "second_phase_hours": { "America": 3, "Europe": 3, "Asia": 3 },
+        "abbr": "NTE",
+        "process": "HTGame.exe",
+        "color": "#3ABFB0"
+    },
+    "Infinity Nikki": {
+        "current": {
+            "version": 2.6,
+            "version_start": "2026-05-29",
+            "version_duration": 26,
+            "characters": [null, null],
+            "is_version_duration_confirmed": true
+        },
+        "next": {
+            "version": 2.7,
+            "future_livestream_version": 2.8,
+            "version_duration": 25,
+            "characters": [null, null],
+            "is_version_duration_confirmed": false
+        },
+        "is_livestream_predictable": false,
+        "maintenance_start": [19, 50],
+        "maintenance_duration": [7, 10],
+        "livestream_hour": [12, 0],
+        "livestream_date": "2026-04-19",
+        "trailer_distance": 1,
+        "servers": {
+            "America": { "uid_prefix": 6, "daily_reset": 11 },
+            "Europe": { "uid_prefix": 2, "daily_reset": 2 },
+            "Asia": { "uid_prefix": 4, "daily_reset": 20 }
+        },
+        "second_phase_hours": { "America": 3, "Europe": 3, "Asia": 3 },
+        "second_phase_offset": 1,
+        "abbr": "IN",
+        "process": "X6Game-Win64-Shipping.exe",
+        "color": "#E8729A"
+    }
+}
