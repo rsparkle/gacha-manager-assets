@@ -82,7 +82,7 @@
             "version": 3.0,
             "future_livestream_version": 3.1,
             "version_duration": 42,
-            "characters": ["Verina", "Norma"],
+            "characters": ["Velina", "Norma"],
             "is_version_duration_confirmed": false
         },
         "maintenance_start": [22, 0],
