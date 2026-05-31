@@ -14,6 +14,8 @@
             "characters": ["Sandrone", null],
             "is_version_duration_confirmed": true
         },
+        "has_uid_pattern": true,
+        "uid_digits": 9,
         "maintenance_start": [22, 0],
         "maintenance_duration": [5, 0],
         "livestream_hour": [12, 0],
@@ -45,6 +47,8 @@
             "characters": ["Mortenax Blade", null],
             "is_version_duration_confirmed": true
         },
+        "has_uid_pattern": true,
+        "uid_digits": 9,
         "maintenance_start": [22, 0],
         "maintenance_duration": [5, 0],
         "livestream_hour": [11, 30],
@@ -82,9 +86,11 @@
             "version": 3.0,
             "future_livestream_version": 3.1,
             "version_duration": 42,
-            "characters": ["Velina", "Norma"],
+            "characters": ["Verina", "Norma"],
             "is_version_duration_confirmed": false
         },
+        "has_uid_pattern": true,
+        "uid_digits": 9,
         "maintenance_start": [22, 0],
         "maintenance_duration": [5, 0],
         "livestream_hour": [11, 30],
@@ -123,6 +129,8 @@
             "is_version_duration_confirmed": true
         },
         "is_livestream_predictable": false,
+        "has_uid_pattern": false,
+        "uid_digits": 12,
         "maintenance_start": [22, 0],
         "maintenance_duration": [6, 0],
         "livestream_hour": [11, 30],
@@ -156,6 +164,8 @@
             "characters": [null, null],
             "is_version_duration_confirmed": false
         },
+        "has_uid_pattern": true,
+        "uid_digits": 9,
         "is_livestream_predictable": false,
         "maintenance_start": [19, 50],
         "maintenance_duration": [7, 10],
