@@ -135,7 +135,7 @@
         "maintenance_duration": [6, 0],
         "livestream_hour": [11, 30],
         "livestream_date": null,
-        "trailer_distance": 1,
+        "trailer_distance": 3,
         "weekly_anchors": {
             "Pink Paws Heist": "2026-05-25T00:00:00Z"
         },
