@@ -76,17 +76,17 @@
     },
     "Zenless Zone Zero": {
         "current": {
-            "version": 2.8,
-            "version_start": "2026-05-06",
-            "version_duration": 41,
-            "characters": ["Promeia", "Starlight Billy"],
+            "version": 3.0,
+            "version_start": "2026-06-17",
+            "version_duration": 42,
+            "characters": ["Velina", "Norma"],
             "is_version_duration_confirmed": true
         },
         "next": {
-            "version": 3.0,
+            "version": 3.1,
             "future_livestream_version": 3.1,
             "version_duration": 42,
-            "characters": ["Velina", "Norma"],
+            "characters": ["Remielle", "Sigrid"],
             "is_version_duration_confirmed": false
         },
         "has_uid_pattern": true,
@@ -160,7 +160,7 @@
         "next": {
             "version": 2.7,
             "future_livestream_version": 2.8,
-            "version_duration": 25,
+            "version_duration": 23,
             "characters": [null, null],
             "is_version_duration_confirmed": false
         },
@@ -170,7 +170,7 @@
         "maintenance_start": [19, 50],
         "maintenance_duration": [7, 10],
         "livestream_hour": [12, 0],
-        "livestream_date": "2026-04-19",
+        "livestream_date": null,
         "trailer_distance": 1,
         "servers": {
             "America": { "uid_prefix": 6, "daily_reset": 11 },
