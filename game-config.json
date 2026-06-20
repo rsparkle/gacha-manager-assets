@@ -20,7 +20,7 @@
         "maintenance_duration": [5, 0],
         "livestream_hour": [12, 0],
         "is_livestream_predictable": true,
-        "trailer_distance": 1,
+        "character_trailer_distance": 1,
         "servers": {
             "America": { "uid_prefix": 6, "daily_reset": 9 },
             "Europe": { "uid_prefix": 7, "daily_reset": 3 },
@@ -53,7 +53,7 @@
         "maintenance_duration": [5, 0],
         "livestream_hour": [11, 30],
         "is_livestream_predictable": true,
-        "trailer_distance": 3,
+        "character_trailer_distance": 3,
         "weekly_anchors": {
             "Currency Wars": "2026-02-16T00:00:00Z",
             "Divergent Universe": "2026-02-09T00:00:00Z"
@@ -84,7 +84,7 @@
         },
         "next": {
             "version": 3.1,
-            "future_livestream_version": 3.1,
+            "future_livestream_version": 3.2,
             "version_duration": 42,
             "characters": ["Remielle", "Sigrid"],
             "is_version_duration_confirmed": false
@@ -95,7 +95,7 @@
         "maintenance_duration": [5, 0],
         "livestream_hour": [11, 30],
         "is_livestream_predictable": true,
-        "trailer_distance": 4,
+        "character_trailer_distance": 4,
         "endgame_anchors": {
             "Shiyu Defense": "2026-02-20T00:00:00Z",
             "Deadly Assault": "2026-02-13T00:00:00Z",
@@ -135,7 +135,7 @@
         "maintenance_duration": [6, 0],
         "livestream_hour": [11, 30],
         "livestream_date": null,
-        "trailer_distance": 3,
+        "character_trailer_distance": 3,
         "weekly_anchors": {
             "Pink Paws Heist": "2026-05-25T00:00:00Z"
         },
@@ -171,7 +171,7 @@
         "maintenance_duration": [7, 10],
         "livestream_hour": [12, 0],
         "livestream_date": null,
-        "trailer_distance": 1,
+        "patch_trailer_distance": 5,
         "servers": {
             "America": { "uid_prefix": 6, "daily_reset": 11 },
             "Europe": { "uid_prefix": 2, "daily_reset": 2 },
