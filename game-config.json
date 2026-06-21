@@ -4,14 +4,20 @@
             "version": 6.6,
             "version_start": "2026-05-20",
             "version_duration": 42,
-            "characters": ["Nicole", "Lohen"],
+            "phase_characters": {
+                "1": ["Nicole"],
+                "2": ["Lohen"]
+            },
             "is_version_duration_confirmed": true
         },
         "next": {
             "version": 6.7,
             "future_livestream_version": 7.0,
             "version_duration": 42,
-            "characters": ["Sandrone", null],
+            "phase_characters": {
+                "1": ["Sandrone"],
+                "2": [null]
+            },
             "is_version_duration_confirmed": true
         },
         "has_uid_pattern": true,
@@ -41,14 +47,20 @@
             "version": 4.3,
             "version_start": "2026-06-01",
             "version_duration": 44,
-            "characters": ["Mortenax Blade", null],
+            "phase_characters": {
+                "1": ["Mortenax Blade"],
+                "2": []
+            },
             "is_version_duration_confirmed": true
         },
         "next": {
             "version": 4.4,
             "future_livestream_version": 4.5,
             "version_duration": 42,
-            "characters": ["Himeko Nova", null],
+            "phase_characters": {
+                "1": ["Himeko Nova"],
+                "2": ["Rin Tohsaka, Gilgamesh"]
+            },
             "is_version_duration_confirmed": true
         },
         "has_uid_pattern": true,
@@ -87,14 +99,20 @@
             "version": 3.0,
             "version_start": "2026-06-17",
             "version_duration": 42,
-            "characters": ["Velina", "Norma"],
+            "phase_characters": {
+                "1": ["Velina"],
+                "2": ["Norma"]
+            },
             "is_version_duration_confirmed": true
         },
         "next": {
             "version": 3.1,
             "future_livestream_version": 3.2,
             "version_duration": 42,
-            "characters": ["Remielle", "Sigrid"],
+            "phase_characters": {
+                "1": ["Remielle"],
+                "2": ["Sigrid"]
+            },
             "is_version_duration_confirmed": false
         },
         "has_uid_pattern": true,
@@ -130,14 +148,20 @@
             "version": 1.1,
             "version_start": "2026-06-04",
             "version_duration": 35,
-            "characters": ["Lacrimosa", "Chaos"],
+            "phase_characters": {
+                "1": ["Lacrimosa"],
+                "2": ["Chaos"]
+            },
             "is_version_duration_confirmed": true
         },
         "next": {
             "version": 1.2,
             "future_livestream_version": 1.3,
             "version_duration": 35,
-            "characters": ["Shinku", "Iroi"],
+            "phase_characters": {
+                "1": ["Shinku"],
+                "2": ["Iroi"]
+            },
             "is_version_duration_confirmed": false
         },
         "has_uid_pattern": false,
@@ -171,14 +195,20 @@
             "version": 2.6,
             "version_start": "2026-05-29",
             "version_duration": 26,
-            "characters": [null, null],
+            "phase_characters": {
+                "1": [null],
+                "2": [null]
+            },
             "is_version_duration_confirmed": true
         },
         "next": {
             "version": 2.7,
             "future_livestream_version": 2.8,
             "version_duration": 23,
-            "characters": [null, null],
+            "phase_characters": {
+                "1": [null],
+                "2": [null]
+            },
             "is_version_duration_confirmed": false
         },
         "has_uid_pattern": true,
