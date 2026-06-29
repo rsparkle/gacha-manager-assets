@@ -49,7 +49,7 @@
             "version_duration": 44,
             "phase_characters": {
                 "1": ["Mortenax Blade"],
-                "2": []
+                "2": [null]
             },
             "is_version_duration_confirmed": true
         },
@@ -157,7 +157,7 @@
         "next": {
             "version": 1.2,
             "future_livestream_version": 1.3,
-            "version_duration": 35,
+            "version_duration": 42,
             "phase_characters": {
                 "1": ["Shinku"],
                 "2": ["Iroi"]
@@ -192,9 +192,9 @@
     },
     "Infinity Nikki": {
         "current": {
-            "version": 2.6,
+            "version": 2.7,
             "version_start": "2026-05-29",
-            "version_duration": 26,
+            "version_duration": 23,
             "phase_characters": {
                 "1": [null],
                 "2": [null]
@@ -202,8 +202,8 @@
             "is_version_duration_confirmed": true
         },
         "next": {
-            "version": 2.7,
-            "future_livestream_version": 2.8,
+            "version": 2.8,
+            "future_livestream_version": 2.9,
             "version_duration": 23,
             "phase_characters": {
                 "1": [null],
