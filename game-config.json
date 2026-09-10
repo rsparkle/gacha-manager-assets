@@ -101,24 +101,24 @@
     },
     "Zenless Zone Zero": {
         "current": {
-            "version": "3.1",
-            "version_start": "2026-07-29",
-            "version_duration": 42,
-            "second_phase_offset": 0,
-            "phase_characters": {
-                "1": ["Remielle"],
-                "2": ["Sigrid"]
-            },
-            "is_version_duration_confirmed": true
-        },
-        "next": {
             "version": "3.2",
-            "future_livestream_version": "3.3",
+            "version_start": "2026-09-09",
             "version_duration": 42,
             "second_phase_offset": 0,
             "phase_characters": {
                 "1": ["Claret"],
                 "2": ["Roxy"]
+            },
+            "is_version_duration_confirmed": true
+        },
+        "next": {
+            "version": "3.3",
+            "future_livestream_version": "3.4",
+            "version_duration": 42,
+            "second_phase_offset": 0,
+            "phase_characters": {
+                "1": ["Phoenix"],
+                "2": ["Severian"]
             },
             "is_version_duration_confirmed": false
         },
@@ -179,7 +179,7 @@
         "maintenance_duration": [6, 0],
         "is_livestream_predictable": true,
         "livestream_hour": [11, 30],
-        "livestream_date": null,
+        "livestream_date": "2026-09-16",
         "livestream_distance": 23,
         "livestream_schedule": "distance",
         "character_trailer_distance": 3,
