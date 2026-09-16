@@ -75,6 +75,7 @@
         "livestream_hour": [11, 30],
         "is_livestream_predictable": true,
         "livestream_schedule": "hoyo",
+        "livestream_date": "2026-09-20",
         "character_trailer_distance": 3,
         "drip_anchor": "livestream",
         "drip_week_start_rule": true,
