@@ -17,8 +17,8 @@
             "version_duration": 42,
             "second_phase_offset": 0,
             "phase_characters": {
-                "1": ["Vesna"],
-                "2": ["Vodyanitsa"]
+                "1": ["Vesna", "Vodyanitsa"],
+                "2": []
             },
             "is_version_duration_confirmed": true
         },
