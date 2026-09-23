@@ -1,23 +1,23 @@
 {
     "Genshin Impact": {
         "current": {
-            "version": "7.0",
-            "version_start": "2026-08-12",
-            "version_duration": 42,
-            "second_phase_offset": 0,
-            "phase_characters": {
-                "1": ["Odette"],
-                "2": [null]
-            },
-            "is_version_duration_confirmed": true
-        },
-        "next": {
             "version": "7.1",
-            "future_livestream_version": "7.2",
+            "version_start": "2026-09-23",
             "version_duration": 42,
             "second_phase_offset": 0,
             "phase_characters": {
                 "1": ["Vesna", "Vodyanitsa"],
+                "2": []
+            },
+            "is_version_duration_confirmed": true
+        },
+        "next": {
+            "version": "7.2",
+            "future_livestream_version": "7.3",
+            "version_duration": 42,
+            "second_phase_offset": 0,
+            "phase_characters": {
+                "1": ["Mitya"],
                 "2": []
             },
             "is_version_duration_confirmed": true
@@ -35,12 +35,29 @@
         "drip_week_start_rule": true,
         "drip_distance": 7,
         "servers": {
-            "America": { "uid_prefix": 6, "daily_reset": 9 },
-            "Europe": { "uid_prefix": 7, "daily_reset": 3 },
-            "Asia": { "uid_prefix": 8, "daily_reset": 20 },
-            "TW/HK/MO": { "uid_prefix": 9, "daily_reset": 20 }
+            "America": {
+                "uid_prefix": 6,
+                "daily_reset": 9
+            },
+            "Europe": {
+                "uid_prefix": 7,
+                "daily_reset": 3
+            },
+            "Asia": {
+                "uid_prefix": 8,
+                "daily_reset": 20
+            },
+            "TW/HK/MO": {
+                "uid_prefix": 9,
+                "daily_reset": 20
+            }
         },
-        "second_phase_hours": { "America": 17, "Europe": 11, "Asia": 4, "TW/HK/MO": 4 },
+        "second_phase_hours": {
+            "America": 17,
+            "Europe": 11,
+            "Asia": 4,
+            "TW/HK/MO": 4
+        },
         "abbr": "GI",
         "process": "GenshinImpact.exe",
         "color": "#C8922A"
@@ -64,7 +81,7 @@
             "second_phase_offset": 0,
             "phase_characters": {
                 "1": ["Pearl"],
-                "2": [null]
+                "2": []
             },
             "is_version_duration_confirmed": true
         },
@@ -80,22 +97,30 @@
         "drip_anchor": "livestream",
         "drip_week_start_rule": true,
         "drip_distance": -4,
-        "weekly_anchors": {
-            "Currency Wars": "2026-02-16T00:00:00Z",
-            "Divergent Universe": "2026-02-09T00:00:00Z"
-        },
-        "endgame_anchors": {
-            "Memory of Chaos": "2026-01-19T00:00:00Z",
-            "Pure Fiction": "2026-02-16T00:00:00Z",
-            "Apocalyptic Shadow": "2026-02-02T00:00:00Z"
-        },
         "servers": {
-            "America": { "uid_prefix": 6, "daily_reset": 9 },
-            "Europe": { "uid_prefix": 7, "daily_reset": 3 },
-            "Asia": { "uid_prefix": 8, "daily_reset": 20 },
-            "TW/HK/MO": { "uid_prefix": 9, "daily_reset": 20 }
+            "America": {
+                "uid_prefix": 6,
+                "daily_reset": 9
+            },
+            "Europe": {
+                "uid_prefix": 7,
+                "daily_reset": 3
+            },
+            "Asia": {
+                "uid_prefix": 8,
+                "daily_reset": 20
+            },
+            "TW/HK/MO": {
+                "uid_prefix": 9,
+                "daily_reset": 20
+            }
         },
-        "second_phase_hours": { "America": 17, "Europe": 11, "Asia": 4, "TW/HK/MO": 4 },
+        "second_phase_hours": {
+            "America": 17,
+            "Europe": 11,
+            "Asia": 4,
+            "TW/HK/MO": 4
+        },
         "abbr": "HSR",
         "process": "StarRail.exe",
         "color": "#4A9ECD"
@@ -134,19 +159,30 @@
         "drip_anchor": "patch",
         "drip_week_start_rule": false,
         "drip_distance": 3,
-        "endgame_anchors": {
-            "Shiyu Defense": "2026-02-20T00:00:00Z",
-            "Deadly Assault": "2026-02-13T00:00:00Z",
-            "Battle Trial": "2026-03-24T00:00:00Z",
-            "Threshold Simulation": "2026-02-06T00:00:00Z"
-        },
         "servers": {
-            "America": { "uid_prefix": 6, "daily_reset": 9 },
-            "Europe": { "uid_prefix": 7, "daily_reset": 3 },
-            "Asia": { "uid_prefix": 8, "daily_reset": 20 },
-            "TW/HK/MO": { "uid_prefix": 9, "daily_reset": 20 }
+            "America": {
+                "uid_prefix": 6,
+                "daily_reset": 9
+            },
+            "Europe": {
+                "uid_prefix": 7,
+                "daily_reset": 3
+            },
+            "Asia": {
+                "uid_prefix": 8,
+                "daily_reset": 20
+            },
+            "TW/HK/MO": {
+                "uid_prefix": 9,
+                "daily_reset": 20
+            }
         },
-        "second_phase_hours": { "America": 17, "Europe": 11, "Asia": 4, "TW/HK/MO": 4 },
+        "second_phase_hours": {
+            "America": 17,
+            "Europe": 11,
+            "Asia": 4,
+            "TW/HK/MO": 4
+        },
         "abbr": "ZZZ",
         "process": "ZenlessZoneZero.exe",
         "color": "#C9D400"
@@ -187,15 +223,25 @@
         "drip_anchor": "patch",
         "drip_week_start_rule": false,
         "drip_distance": 1,
-        "weekly_anchors": {
-            "Pink Paws Heist": "2026-05-25T00:00:00Z"
-        },
         "servers": {
-            "America": { "uid_prefix": null, "daily_reset": 9 },
-            "Europe": { "uid_prefix": null, "daily_reset": 3 },
-            "Asia": { "uid_prefix": null, "daily_reset": 21 }
+            "America": {
+                "uid_prefix": null,
+                "daily_reset": 9
+            },
+            "Europe": {
+                "uid_prefix": null,
+                "daily_reset": 3
+            },
+            "Asia": {
+                "uid_prefix": null,
+                "daily_reset": 21
+            }
         },
-        "second_phase_hours": { "America": 3, "Europe": 3, "Asia": 3 },
+        "second_phase_hours": {
+            "America": 3,
+            "Europe": 3,
+            "Asia": 3
+        },
         "abbr": "NTE",
         "process": "HTGame.exe",
         "color": "#3ABFB0"
@@ -215,7 +261,7 @@
         "next": {
             "version": "2.10",
             "future_livestream_version": "2.11",
-            "version_duration": 23,
+            "version_duration": 36,
             "second_phase_offset": 1,
             "phase_characters": {
                 "1": [null],
@@ -232,11 +278,24 @@
         "livestream_date": null,
         "patch_trailer_distance": 5,
         "servers": {
-            "America": { "uid_prefix": 6, "daily_reset": 11 },
-            "Europe": { "uid_prefix": 2, "daily_reset": 2 },
-            "Asia": { "uid_prefix": 4, "daily_reset": 20 }
+            "America": {
+                "uid_prefix": 6,
+                "daily_reset": 11
+            },
+            "Europe": {
+                "uid_prefix": 2,
+                "daily_reset": 2
+            },
+            "Asia": {
+                "uid_prefix": 4,
+                "daily_reset": 20
+            }
         },
-        "second_phase_hours": { "America": 3, "Europe": 3, "Asia": 3 },
+        "second_phase_hours": {
+            "America": 3,
+            "Europe": 3,
+            "Asia": 3
+        },
         "abbr": "IN",
         "process": "X6Game-Win64-Shipping.exe",
         "color": "#E8729A"
