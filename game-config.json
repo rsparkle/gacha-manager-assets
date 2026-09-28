@@ -265,7 +265,7 @@
         "next": {
             "version": "2.11",
             "future_livestream_version": "3.0",
-            "version_duration": 17,
+            "version_duration": 28,
             "second_phase_offset": 1,
             "phase_characters": {
                 "1": [null],
