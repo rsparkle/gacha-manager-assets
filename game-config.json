@@ -60,27 +60,28 @@
         },
         "abbr": "GI",
         "process": "GenshinImpact.exe",
-        "color": "#C8922A"
+        "color": "#C8922A",
+        "monthlySub": "Welkin"
     },
     "Honkai: Star Rail": {
         "current": {
-            "version": "4.5",
-            "version_start": "2026-08-26",
-            "version_duration": 33,
+            "version": "4.6",
+            "version_start": "2026-09-28",
+            "version_duration": 44,
             "second_phase_offset": 0,
             "phase_characters": {
-                "1": ["Robin Summeretto"],
-                "2": ["Aventurine Waveflair"]
+                "1": ["Pearl"],
+                "2": []
             },
             "is_version_duration_confirmed": true
         },
         "next": {
-            "version": "4.6",
-            "future_livestream_version": "4.7",
+            "version": "4.7",
+            "future_livestream_version": "4.8",
             "version_duration": 42,
             "second_phase_offset": 0,
             "phase_characters": {
-                "1": ["Pearl"],
+                "1": ["Nihilux"],
                 "2": []
             },
             "is_version_duration_confirmed": true
@@ -123,7 +124,8 @@
         },
         "abbr": "HSR",
         "process": "StarRail.exe",
-        "color": "#4A9ECD"
+        "color": "#4A9ECD",
+        "monthlySub": "Express Supply Pass"
     },
     "Zenless Zone Zero": {
         "current": {
@@ -185,7 +187,8 @@
         },
         "abbr": "ZZZ",
         "process": "ZenlessZoneZero.exe",
-        "color": "#C9D400"
+        "color": "#C9D400",
+        "monthlySub": "Inter-Knot Membership"
     },
     "Neverness To Everness": {
         "current": {
@@ -244,13 +247,14 @@
         },
         "abbr": "NTE",
         "process": "HTGame.exe",
-        "color": "#3ABFB0"
+        "color": "#3ABFB0",
+        "monthlySub": "Riftcrystal Permit"
     },
     "Infinity Nikki": {
         "current": {
-            "version": "2.9",
-            "version_start": "2026-08-27",
-            "version_duration": 28,
+            "version": "2.10",
+            "version_start": "2026-09-24",
+            "version_duration": 36,
             "second_phase_offset": 1,
             "phase_characters": {
                 "1": [null],
@@ -259,9 +263,9 @@
             "is_version_duration_confirmed": true
         },
         "next": {
-            "version": "2.10",
-            "future_livestream_version": "2.11",
-            "version_duration": 36,
+            "version": "2.11",
+            "future_livestream_version": "3.0",
+            "version_duration": 17,
             "second_phase_offset": 1,
             "phase_characters": {
                 "1": [null],
@@ -298,6 +302,7 @@
         },
         "abbr": "IN",
         "process": "X6Game-Win64-Shipping.exe",
-        "color": "#E8729A"
+        "color": "#E8729A",
+        "monthlySub": "Monthly Gifts"
     }
 }
