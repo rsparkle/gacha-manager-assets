@@ -29,7 +29,7 @@
         "livestream_hour": [12, 0],
         "is_livestream_predictable": true,
         "livestream_schedule": "hoyo",
-        "livestream_date": "2026-09-12",
+        "livestream_date": null,
         "character_trailer_distance": 1,
         "drip_anchor": "patch",
         "drip_week_start_rule": true,
@@ -93,7 +93,7 @@
         "livestream_hour": [11, 30],
         "is_livestream_predictable": true,
         "livestream_schedule": "hoyo",
-        "livestream_date": "2026-09-20",
+        "livestream_date": null,
         "character_trailer_distance": 3,
         "drip_anchor": "livestream",
         "drip_week_start_rule": true,
@@ -192,24 +192,24 @@
     },
     "Neverness To Everness": {
         "current": {
-            "version": "1.3",
-            "version_start": "2026-08-19",
-            "version_duration": 42,
-            "second_phase_offset": 0,
-            "phase_characters": {
-                "1": ["Zankou"],
-                "2": ["Linko"]
-            },
-            "is_version_duration_confirmed": true
-        },
-        "next": {
             "version": "1.4",
-            "future_livestream_version": "1.5",
+            "version_start": "2026-09-30",
             "version_duration": 42,
             "second_phase_offset": 0,
             "phase_characters": {
                 "1": ["Blackbird"],
                 "2": ["Akane"]
+            },
+            "is_version_duration_confirmed": true
+        },
+        "next": {
+            "version": "1.5",
+            "future_livestream_version": "1.6",
+            "version_duration": 42,
+            "second_phase_offset": 0,
+            "phase_characters": {
+                "1": ["Elyms"],
+                "2": ["Exe"]
             },
             "is_version_duration_confirmed": false
         },
@@ -219,7 +219,7 @@
         "maintenance_duration": [6, 0],
         "is_livestream_predictable": true,
         "livestream_hour": [11, 30],
-        "livestream_date": "2026-09-16",
+        "livestream_date": null,
         "livestream_distance": 23,
         "livestream_schedule": "distance",
         "character_trailer_distance": 3,
