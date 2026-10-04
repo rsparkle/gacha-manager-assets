@@ -253,7 +253,7 @@
                 "type": "Endgame",
                 "reset": {
                     "kind": "interval",
-                    "anchor": "2026-10-22T21:00:00Z",
+                    "anchor": "2026-10-21T21:00:00Z",
                     "intervalDays": 14,
                     "startTime": "anchorTime"
                 }
