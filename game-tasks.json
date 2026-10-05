@@ -246,17 +246,6 @@
                     "anchor": "2026-05-25T00:00:00Z",
                     "intervalDays": 14
                 }
-            },
-            {
-                "id": "nte-beyond-the-rails",
-                "label": "Beyond The Rails",
-                "type": "Endgame",
-                "reset": {
-                    "kind": "interval",
-                    "anchor": "2026-10-21T21:00:00Z",
-                    "intervalDays": 14,
-                    "startTime": "anchorTime"
-                }
             }
         ]
     },
