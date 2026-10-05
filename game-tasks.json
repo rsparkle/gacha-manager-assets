@@ -107,8 +107,8 @@
                 "type": "Endgame",
                 "reset": {
                     "kind": "interval",
-                    "anchor": "2026-02-02T00:00:00Z",
-                    "intervalDays": 35,
+                    "anchor": "2026-10-05T00:00:00Z",
+                    "intervalDays": 42,
                     "patchCollision": "maintenanceStart"
                 }
             },
