@@ -225,7 +225,7 @@
         "character_trailer_distance": 3,
         "drip_anchor": "patch",
         "drip_week_start_rule": false,
-        "drip_distance": 1,
+        "drip_distance": 4,
         "servers": {
             "America": {
                 "uid_prefix": null,
