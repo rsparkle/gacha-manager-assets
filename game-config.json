@@ -45,11 +45,13 @@
             },
             "Asia": {
                 "uid_prefix": 8,
-                "daily_reset": 20
+                "daily_reset": 20,
+                "day_shift": 1
             },
             "TW/HK/MO": {
                 "uid_prefix": 9,
-                "daily_reset": 20
+                "daily_reset": 20,
+                "day_shift": 1
             }
         },
         "second_phase_hours": {
@@ -109,11 +111,13 @@
             },
             "Asia": {
                 "uid_prefix": 8,
-                "daily_reset": 20
+                "daily_reset": 20,
+                "day_shift": 1
             },
             "TW/HK/MO": {
                 "uid_prefix": 9,
-                "daily_reset": 20
+                "daily_reset": 20,
+                "day_shift": 1
             }
         },
         "second_phase_hours": {
@@ -172,11 +176,13 @@
             },
             "Asia": {
                 "uid_prefix": 8,
-                "daily_reset": 20
+                "daily_reset": 20,
+                "day_shift": 1
             },
             "TW/HK/MO": {
                 "uid_prefix": 9,
-                "daily_reset": 20
+                "daily_reset": 20,
+                "day_shift": 1
             }
         },
         "second_phase_hours": {
@@ -237,7 +243,8 @@
             },
             "Asia": {
                 "uid_prefix": null,
-                "daily_reset": 21
+                "daily_reset": 21,
+                "day_shift": 1
             }
         },
         "second_phase_hours": {
@@ -292,7 +299,8 @@
             },
             "Asia": {
                 "uid_prefix": 4,
-                "daily_reset": 20
+                "daily_reset": 20,
+                "day_shift": 1
             }
         },
         "second_phase_hours": {
