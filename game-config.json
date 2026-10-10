@@ -146,7 +146,7 @@
         "next": {
             "version": "3.3",
             "future_livestream_version": "3.4",
-            "version_duration": 42,
+            "version_duration": 41,
             "second_phase_offset": 0,
             "phase_characters": {
                 "1": ["Phoenix"],
