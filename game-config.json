@@ -1,316 +1,432 @@
 {
-    "Genshin Impact": {
-        "current": {
-            "version": "7.1",
-            "version_start": "2026-09-23",
-            "version_duration": 42,
-            "second_phase_offset": 0,
-            "phase_characters": {
-                "1": ["Vesna", "Vodyanitsa"],
-                "2": []
-            },
-            "is_version_duration_confirmed": true
-        },
-        "next": {
-            "version": "7.2",
-            "future_livestream_version": "7.3",
-            "version_duration": 42,
-            "second_phase_offset": 0,
-            "phase_characters": {
-                "1": ["Mitya"],
-                "2": []
-            },
-            "is_version_duration_confirmed": true
-        },
-        "has_uid_pattern": true,
-        "uid_digits": 9,
-        "maintenance_start": [22, 0],
-        "maintenance_duration": [5, 0],
-        "livestream_hour": [12, 0],
-        "is_livestream_predictable": true,
-        "livestream_schedule": "hoyo",
-        "livestream_date": null,
-        "character_trailer_distance": 1,
-        "drip_anchor": "patch",
-        "drip_week_start_rule": true,
-        "drip_distance": 7,
-        "servers": {
-            "America": {
-                "uid_prefix": 6,
-                "daily_reset": 9
-            },
-            "Europe": {
-                "uid_prefix": 7,
-                "daily_reset": 3
-            },
-            "Asia": {
-                "uid_prefix": 8,
-                "daily_reset": 20,
-                "day_shift": 1
-            },
-            "TW/HK/MO": {
-                "uid_prefix": 9,
-                "daily_reset": 20,
-                "day_shift": 1
-            }
-        },
-        "second_phase_hours": {
-            "America": 17,
-            "Europe": 11,
-            "Asia": 4,
-            "TW/HK/MO": 4
-        },
-        "abbr": "GI",
-        "process": "GenshinImpact.exe",
-        "color": "#C8922A",
-        "monthlySub": "Welkin"
+  "Genshin Impact": {
+    "abbr": "GI",
+    "process": "GenshinImpact.exe",
+    "color": "#C8922A",
+    "monthlySub": "Welkin",
+    "current": {
+      "version": "7.1",
+      "version_start": "2026-09-23",
+      "version_duration": 42,
+      "second_phase_offset": -1,
+      "phase_characters": {
+        "1": [
+          "Vesna",
+          "Vodyanitsa"
+        ],
+        "2": []
+      },
+      "is_version_duration_confirmed": true
     },
-    "Honkai: Star Rail": {
-        "current": {
-            "version": "4.6",
-            "version_start": "2026-09-28",
-            "version_duration": 44,
-            "second_phase_offset": 0,
-            "phase_characters": {
-                "1": ["Pearl"],
-                "2": []
-            },
-            "is_version_duration_confirmed": true
-        },
-        "next": {
-            "version": "4.7",
-            "future_livestream_version": "4.8",
-            "version_duration": 42,
-            "second_phase_offset": 0,
-            "phase_characters": {
-                "1": ["Aeon Aha"],
-                "2": []
-            },
-            "is_version_duration_confirmed": true
-        },
-        "has_uid_pattern": true,
-        "uid_digits": 9,
-        "maintenance_start": [22, 0],
-        "maintenance_duration": [5, 0],
-        "livestream_hour": [11, 30],
-        "is_livestream_predictable": true,
-        "livestream_schedule": "hoyo",
-        "livestream_date": null,
-        "character_trailer_distance": 3,
-        "drip_anchor": "livestream",
-        "drip_week_start_rule": true,
-        "drip_distance": -4,
-        "servers": {
-            "America": {
-                "uid_prefix": 6,
-                "daily_reset": 9
-            },
-            "Europe": {
-                "uid_prefix": 7,
-                "daily_reset": 3
-            },
-            "Asia": {
-                "uid_prefix": 8,
-                "daily_reset": 20,
-                "day_shift": 1
-            },
-            "TW/HK/MO": {
-                "uid_prefix": 9,
-                "daily_reset": 20,
-                "day_shift": 1
-            }
-        },
-        "second_phase_hours": {
-            "America": 17,
-            "Europe": 11,
-            "Asia": 4,
-            "TW/HK/MO": 4
-        },
-        "abbr": "HSR",
-        "process": "StarRail.exe",
-        "color": "#4A9ECD",
-        "monthlySub": "Express Supply Pass"
+    "next": {
+      "version": "7.2",
+      "future_livestream_version": "7.3",
+      "version_duration": 42,
+      "second_phase_offset": -1,
+      "phase_characters": {
+        "1": [
+          "Mitya"
+        ],
+        "2": []
+      },
+      "is_version_duration_confirmed": true
     },
-    "Zenless Zone Zero": {
-        "current": {
-            "version": "3.2",
-            "version_start": "2026-09-09",
-            "version_duration": 42,
-            "second_phase_offset": 0,
-            "phase_characters": {
-                "1": ["Claret"],
-                "2": ["Roxy"]
-            },
-            "is_version_duration_confirmed": true
-        },
-        "next": {
-            "version": "3.3",
-            "future_livestream_version": "3.4",
-            "version_duration": 41,
-            "second_phase_offset": 0,
-            "phase_characters": {
-                "1": ["Phoenix"],
-                "2": ["Severian"]
-            },
-            "is_version_duration_confirmed": false
-        },
-        "has_uid_pattern": true,
-        "uid_digits": 9,
-        "maintenance_start": [22, 0],
-        "maintenance_duration": [5, 0],
-        "livestream_hour": [11, 30],
-        "is_livestream_predictable": true,
-        "livestream_schedule": "hoyo",
-        "character_trailer_distance": 4,
-        "drip_anchor": "patch",
-        "drip_week_start_rule": false,
-        "drip_distance": 3,
-        "servers": {
-            "America": {
-                "uid_prefix": 6,
-                "daily_reset": 9
-            },
-            "Europe": {
-                "uid_prefix": 7,
-                "daily_reset": 3
-            },
-            "Asia": {
-                "uid_prefix": 8,
-                "daily_reset": 20,
-                "day_shift": 1
-            },
-            "TW/HK/MO": {
-                "uid_prefix": 9,
-                "daily_reset": 20,
-                "day_shift": 1
-            }
-        },
-        "second_phase_hours": {
-            "America": 17,
-            "Europe": 11,
-            "Asia": 4,
-            "TW/HK/MO": 4
-        },
-        "abbr": "ZZZ",
-        "process": "ZenlessZoneZero.exe",
-        "color": "#C9D400",
-        "monthlySub": "Inter-Knot Membership"
+    "has_uid_pattern": true,
+    "uid_digits": 9,
+    "global_utc_offset": 8,
+    "daily_reset": "04:00",
+    "weekly_reset_weekday": 1,
+    "maintenance": {
+      "first_phase": {
+        "start": "06:00",
+        "duration": "05:00"
+      }
     },
-    "Neverness To Everness": {
-        "current": {
-            "version": "1.4",
-            "version_start": "2026-09-30",
-            "version_duration": 42,
-            "second_phase_offset": 0,
-            "phase_characters": {
-                "1": ["Blackbird"],
-                "2": ["Akane"]
-            },
-            "is_version_duration_confirmed": true
-        },
-        "next": {
-            "version": "1.5",
-            "future_livestream_version": "1.6",
-            "version_duration": 42,
-            "second_phase_offset": 0,
-            "phase_characters": {
-                "1": ["Elyms"],
-                "2": ["Exe"]
-            },
-            "is_version_duration_confirmed": false
-        },
-        "has_uid_pattern": false,
-        "uid_digits": 12,
-        "maintenance_start": [22, 0],
-        "maintenance_duration": [6, 0],
-        "is_livestream_predictable": true,
-        "livestream_hour": [11, 30],
-        "livestream_date": null,
-        "livestream_distance": 23,
-        "livestream_schedule": "distance",
-        "character_trailer_distance": 3,
-        "drip_anchor": "patch",
-        "drip_week_start_rule": false,
-        "drip_distance": 4,
-        "servers": {
-            "America": {
-                "uid_prefix": null,
-                "daily_reset": 9
-            },
-            "Europe": {
-                "uid_prefix": null,
-                "daily_reset": 3
-            },
-            "Asia": {
-                "uid_prefix": null,
-                "daily_reset": 21,
-                "day_shift": 1
-            }
-        },
-        "second_phase_hours": {
-            "America": 3,
-            "Europe": 3,
-            "Asia": 3
-        },
-        "abbr": "NTE",
-        "process": "HTGame.exe",
-        "color": "#3ABFB0",
-        "monthlySub": "Riftcrystal Permit"
+    "second_phase": {
+      "time": "18:00",
+      "scope": "server"
     },
-    "Infinity Nikki": {
-        "current": {
-            "version": "2.10",
-            "version_start": "2026-09-24",
-            "version_duration": 36,
-            "second_phase_offset": 1,
-            "phase_characters": {
-                "1": [null],
-                "2": [null]
-            },
-            "is_version_duration_confirmed": true
-        },
-        "next": {
-            "version": "2.11",
-            "future_livestream_version": "3.0",
-            "version_duration": 28,
-            "second_phase_offset": 1,
-            "phase_characters": {
-                "1": [null],
-                "2": [null]
-            },
-            "is_version_duration_confirmed": false
-        },
-        "has_uid_pattern": true,
-        "uid_digits": 9,
-        "is_livestream_predictable": false,
-        "maintenance_start": [19, 50],
-        "maintenance_duration": [7, 10],
-        "livestream_hour": [12, 0],
-        "livestream_date": null,
-        "patch_trailer_distance": 5,
-        "servers": {
-            "America": {
-                "uid_prefix": 6,
-                "daily_reset": 11
-            },
-            "Europe": {
-                "uid_prefix": 2,
-                "daily_reset": 2
-            },
-            "Asia": {
-                "uid_prefix": 4,
-                "daily_reset": 20,
-                "day_shift": 1
-            }
-        },
-        "second_phase_hours": {
-            "America": 3,
-            "Europe": 3,
-            "Asia": 3
-        },
-        "abbr": "IN",
-        "process": "X6Game-Win64-Shipping.exe",
-        "color": "#E8729A",
-        "monthlySub": "Monthly Gifts"
+    "event_start": {
+      "time": "10:00",
+      "scope": "server"
+    },
+    "event_end": {
+      "time": "03:59",
+      "scope": "server"
+    },
+    "livestream": {
+      "is_predictable": true,
+      "schedule": "hoyo",
+      "time": "20:00",
+      "date": null
+    },
+    "character_trailer": {
+      "time": "12:00",
+      "distance": 1
+    },
+    "drip": {
+      "anchor": "patch",
+      "week_start_rule": true,
+      "distance": 7
+    },
+    "servers": {
+      "America": {
+        "uid_prefix": 6,
+        "utc_offset": -5
+      },
+      "Europe": {
+        "uid_prefix": 7,
+        "utc_offset": 1
+      },
+      "Asia": {
+        "uid_prefix": 8,
+        "utc_offset": 8
+      },
+      "TW/HK/MO": {
+        "uid_prefix": 9,
+        "utc_offset": 8
+      }
     }
+  },
+  "Honkai: Star Rail": {
+    "abbr": "HSR",
+    "process": "StarRail.exe",
+    "color": "#4A9ECD",
+    "monthlySub": "Express Supply Pass",
+    "current": {
+      "version": "4.6",
+      "version_start": "2026-09-28",
+      "version_duration": 44,
+      "second_phase_offset": 1,
+      "phase_characters": {
+        "1": [
+          "Pearl"
+        ],
+        "2": []
+      },
+      "is_version_duration_confirmed": true
+    },
+    "next": {
+      "version": "4.7",
+      "future_livestream_version": "4.8",
+      "version_duration": 42,
+      "second_phase_offset": 1,
+      "phase_characters": {
+        "1": [
+          "Aeon Aha"
+        ],
+        "2": []
+      },
+      "is_version_duration_confirmed": true
+    },
+    "has_uid_pattern": true,
+    "uid_digits": 9,
+    "global_utc_offset": 8,
+    "daily_reset": "04:00",
+    "weekly_reset_weekday": 1,
+    "maintenance": {
+      "first_phase": {
+        "start": "06:00",
+        "duration": "05:00"
+      }
+    },
+    "second_phase": {
+      "time": "12:00",
+      "scope": "server"
+    },
+    "event_start": {
+      "time": "12:00",
+      "scope": "server"
+    },
+    "event_end": {
+      "time": "03:59",
+      "scope": "global"
+    },
+    "livestream": {
+      "is_predictable": true,
+      "schedule": "hoyo",
+      "time": "19:30",
+      "date": null
+    },
+    "character_trailer": {
+      "time": "12:00",
+      "distance": 3
+    },
+    "drip": {
+      "anchor": "livestream",
+      "week_start_rule": true,
+      "distance": -4
+    },
+    "servers": {
+      "America": {
+        "uid_prefix": 6,
+        "utc_offset": -5
+      },
+      "Europe": {
+        "uid_prefix": 7,
+        "utc_offset": 1
+      },
+      "Asia": {
+        "uid_prefix": 8,
+        "utc_offset": 8
+      },
+      "TW/HK/MO": {
+        "uid_prefix": 9,
+        "utc_offset": 8
+      }
+    }
+  },
+  "Zenless Zone Zero": {
+    "abbr": "ZZZ",
+    "process": "ZenlessZoneZero.exe",
+    "color": "#C9D400",
+    "monthlySub": "Inter-Knot Membership",
+    "current": {
+      "version": "3.2",
+      "version_start": "2026-09-09",
+      "version_duration": 42,
+      "second_phase_offset": 0,
+      "phase_characters": {
+        "1": [
+          "Claret"
+        ],
+        "2": [
+          "Roxy"
+        ]
+      },
+      "is_version_duration_confirmed": true
+    },
+    "next": {
+      "version": "3.3",
+      "future_livestream_version": "3.4",
+      "version_duration": 41,
+      "second_phase_offset": 0,
+      "phase_characters": {
+        "1": [
+          "Phoenix"
+        ],
+        "2": [
+          "Severian"
+        ]
+      },
+      "is_version_duration_confirmed": false
+    },
+    "has_uid_pattern": true,
+    "uid_digits": 9,
+    "global_utc_offset": 8,
+    "daily_reset": "04:00",
+    "weekly_reset_weekday": 1,
+    "maintenance": {
+      "first_phase": {
+        "start": "06:00",
+        "duration": "05:00"
+      }
+    },
+    "second_phase": {
+      "time": "12:00",
+      "scope": "server"
+    },
+    "event_start": {
+      "time": "10:00",
+      "scope": "server"
+    },
+    "event_end": {
+      "time": "03:59",
+      "scope": "server"
+    },
+    "livestream": {
+      "is_predictable": true,
+      "schedule": "hoyo",
+      "time": "19:30",
+      "date": null
+    },
+    "character_trailer": {
+      "time": "12:00",
+      "distance": 4
+    },
+    "drip": {
+      "anchor": "patch",
+      "week_start_rule": false,
+      "distance": 3
+    },
+    "servers": {
+      "America": {
+        "uid_prefix": 6,
+        "utc_offset": -5
+      },
+      "Europe": {
+        "uid_prefix": 7,
+        "utc_offset": 1
+      },
+      "Asia": {
+        "uid_prefix": 8,
+        "utc_offset": 8
+      },
+      "TW/HK/MO": {
+        "uid_prefix": 9,
+        "utc_offset": 8
+      }
+    }
+  },
+  "Neverness To Everness": {
+    "abbr": "NTE",
+    "process": "HTGame.exe",
+    "color": "#3ABFB0",
+    "monthlySub": "Riftcrystal Permit",
+    "current": {
+      "version": "1.4",
+      "version_start": "2026-09-30",
+      "version_duration": 42,
+      "second_phase_offset": 0,
+      "phase_characters": {
+        "1": [
+          "Blackbird"
+        ],
+        "2": [
+          "Akane"
+        ]
+      },
+      "is_version_duration_confirmed": true
+    },
+    "next": {
+      "version": "1.5",
+      "future_livestream_version": "1.6",
+      "version_duration": 42,
+      "second_phase_offset": 0,
+      "phase_characters": {
+        "1": [
+          "Elyms"
+        ],
+        "2": [
+          "Exe"
+        ]
+      },
+      "is_version_duration_confirmed": false
+    },
+    "has_uid_pattern": false,
+    "uid_digits": 12,
+    "global_utc_offset": 8,
+    "daily_reset": "05:00",
+    "weekly_reset_weekday": 1,
+    "maintenance": {
+      "first_phase": {
+        "start": "06:00",
+        "duration": "05:00"
+      },
+      "second_phase": {
+        "start": "06:00",
+        "duration": "05:00"
+      }
+    },
+    "event_start": {
+      "time": "10:00",
+      "scope": "global"
+    },
+    "event_end": {
+      "time": "05:59",
+      "scope": "global"
+    },
+    "livestream": {
+      "is_predictable": true,
+      "schedule": "distance",
+      "time": "19:30",
+      "date": null,
+      "distance": 23
+    },
+    "character_trailer": {
+      "time": "12:00",
+      "distance": 3
+    },
+    "drip": {
+      "anchor": "patch",
+      "week_start_rule": false,
+      "distance": 4
+    },
+    "servers": {
+      "America": {
+        "uid_prefix": null,
+        "utc_offset": -4
+      },
+      "Europe": {
+        "uid_prefix": null,
+        "utc_offset": 2
+      },
+      "Asia": {
+        "uid_prefix": null,
+        "utc_offset": 8
+      }
+    }
+  },
+  "Infinity Nikki": {
+    "abbr": "IN",
+    "process": "X6Game-Win64-Shipping.exe",
+    "color": "#E8729A",
+    "monthlySub": "Monthly Gifts",
+    "current": {
+      "version": "2.10",
+      "version_start": "2026-09-24",
+      "version_duration": 36,
+      "second_phase_offset": 0,
+      "phase_characters": {
+        "1": [],
+        "2": []
+      },
+      "is_version_duration_confirmed": true
+    },
+    "next": {
+      "version": "2.11",
+      "future_livestream_version": "3.0",
+      "version_duration": 28,
+      "second_phase_offset": 0,
+      "phase_characters": {
+        "1": [],
+        "2": []
+      },
+      "is_version_duration_confirmed": false
+    },
+    "has_uid_pattern": true,
+    "uid_digits": 9,
+    "global_utc_offset": 8,
+    "daily_reset": "04:00",
+    "weekly_reset_weekday": 1,
+    "maintenance": {
+      "first_phase": {
+        "start": "03:50",
+        "duration": "07:10"
+      },
+      "second_phase": {
+        "start": "10:00",
+        "duration": "01:00"
+      }
+    },
+    "event_start": {
+      "time": "11:00",
+      "scope": "global"
+    },
+    "event_end": {
+      "time": "03:49",
+      "scope": "global"
+    },
+    "livestream": {
+      "is_predictable": false,
+      "time": "20:00",
+      "date": null
+    },
+    "patch_trailer_distance": 5,
+    "trailer_time": "12:00",
+    "servers": {
+      "America": {
+        "uid_prefix": 6,
+        "utc_offset": -7
+      },
+      "Europe": {
+        "uid_prefix": 2,
+        "utc_offset": 2
+      },
+      "Asia": {
+        "uid_prefix": 4,
+        "utc_offset": 8
+      }
+    }
+  }
 }
