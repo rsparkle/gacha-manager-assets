@@ -354,6 +354,10 @@
       "Asia": {
         "uid_prefix": null,
         "utc_offset": 8
+      },
+      "SEA": {
+        "uid_prefix": null,
+        "utc_offset": 8
       }
     }
   },
