@@ -62,7 +62,7 @@
         }
       },
       {
-        "id": "gi-predictive-victory-dynamics",
+        "id": "gi-side-event-1",
         "label": "Predictive Victory Dynamics",
         "type": "Event",
         "reset": {
@@ -74,7 +74,7 @@
         }
       },
       {
-        "id": "gi-carefree-snowball-fight",
+        "id": "gi-side-event-2",
         "label": "Carefree Snowball Fight",
         "type": "Event",
         "reset": {
@@ -170,12 +170,12 @@
         }
       },
       {
-        "id": "hsr-interastral-peace-gala",
+        "id": "hsr-side-event-1",
         "label": "Interastral Peace Gala: One Take",
         "type": "Event",
         "reset": {
           "kind": "window",
-          "startDate": "secondPhaseStart",
+          "startDate": "secondPhase",
           "endDate": "patchEnd"
         }
       }
@@ -260,6 +260,36 @@
           "startTime": "maintenanceEnd",
           "endTime": "maintenanceEnd"
         }
+      },
+      {
+        "id": "zzz-main-event",
+        "label": "Clink, Clank, Pinball Knight!",
+        "type": "Event",
+        "reset": {
+          "kind": "window",
+          "startDate": "patchStart+1",
+          "endDate": "patchEnd-2"
+        }
+      },
+      {
+        "id": "zzz-side-event-1",
+        "label": "Diary of an Orbie Parent",
+        "type": "Event",
+        "reset": {
+          "kind": "window",
+          "startDate": "2026-09-30",
+          "endDate": "patchEnd-2"
+        }
+      },
+      {
+        "id": "zzz-side-event-2",
+        "label": "Chronicles of the Hobbling Crow",
+        "type": "Event",
+        "reset": {
+          "kind": "window",
+          "startDate": "2026-10-03",
+          "endDate": "patchEnd-2"
+        }
       }
     ]
   },
@@ -326,7 +356,7 @@
         "type": "Event",
         "reset": {
           "kind": "window",
-          "startDate": "secondPhaseStart",
+          "startDate": "secondPhase",
           "endDate": "patchEnd",
           "startTime": "secondPhase"
         }
@@ -399,7 +429,7 @@
         "type": "Event",
         "reset": {
           "kind": "window",
-          "startDate": "secondPhaseStart",
+          "startDate": "secondPhase",
           "endDate": "patchEnd"
         }
       },
@@ -409,7 +439,7 @@
         "type": "Event",
         "reset": {
           "kind": "window",
-          "startDate": "secondPhaseStart",
+          "startDate": "secondPhase",
           "endDate": "patchEnd"
         }
       }
