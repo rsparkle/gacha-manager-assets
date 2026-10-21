@@ -255,39 +255,19 @@
         "type": "Seasonal",
         "reset": {
           "kind": "window",
-          "startDate": "2026-06-17",
-          "endDate": "patchEnd",
+          "startDate": "2026-10-21",
+          "endDate": null,
           "startTime": "maintenanceEnd",
           "endTime": "maintenanceEnd"
         }
       },
       {
         "id": "zzz-main-event",
-        "label": "Clink, Clank, Pinball Knight!",
+        "label": "Spooky Funhouse Tales",
         "type": "Event",
         "reset": {
           "kind": "window",
           "startDate": "patchStart+1",
-          "endDate": "patchEnd-2"
-        }
-      },
-      {
-        "id": "zzz-side-event-1",
-        "label": "Diary of an Orbie Parent",
-        "type": "Event",
-        "reset": {
-          "kind": "window",
-          "startDate": "2026-09-30",
-          "endDate": "patchEnd-2"
-        }
-      },
-      {
-        "id": "zzz-side-event-2",
-        "label": "Chronicles of the Hobbling Crow",
-        "type": "Event",
-        "reset": {
-          "kind": "window",
-          "startDate": "2026-10-03",
           "endDate": "patchEnd-2"
         }
       }
