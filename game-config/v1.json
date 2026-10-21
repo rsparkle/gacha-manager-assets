@@ -4,6 +4,17 @@
     "process": "GenshinImpact.exe",
     "color": "#C8922A",
     "monthlySub": "Welkin",
+    "previous": {
+      "version": "7.0",
+      "version_duration": 42,
+      "second_phase_offset": -1,
+      "phase_characters": {
+        "1": [
+          "Odette"
+        ],
+        "2": []
+      }
+    },
     "current": {
       "version": "7.1",
       "version_start": "2026-09-23",
@@ -93,6 +104,19 @@
     "process": "StarRail.exe",
     "color": "#4A9ECD",
     "monthlySub": "Express Supply Pass",
+    "previous": {
+      "version": "4.5",
+      "version_duration": 33,
+      "second_phase_offset": 1,
+      "phase_characters": {
+        "1": [
+          "Robin Summeretto"
+        ],
+        "2": [
+          "Aventurine Waveflair"
+        ]
+      }
+    },
     "current": {
       "version": "4.6",
       "version_start": "2026-09-28",
@@ -181,6 +205,19 @@
     "process": "ZenlessZoneZero.exe",
     "color": "#C9D400",
     "monthlySub": "Inter-Knot Membership",
+    "previous": {
+      "version": "3.2",
+      "version_duration": 42,
+      "second_phase_offset": 0,
+      "phase_characters": {
+        "1": [
+          "Claret"
+        ],
+        "2": [
+          "Roxy"
+        ]
+      }
+    },
     "current": {
       "version": "3.3",
       "version_start": "2026-10-21",
@@ -274,6 +311,19 @@
     "process": "HTGame.exe",
     "color": "#3ABFB0",
     "monthlySub": "Riftcrystal Permit",
+    "previous": {
+      "version": "1.3",
+      "version_duration": 42,
+      "second_phase_offset": 0,
+      "phase_characters": {
+        "1": [
+          "Zankou"
+        ],
+        "2": [
+          "Linko"
+        ]
+      }
+    },
     "current": {
       "version": "1.4",
       "version_start": "2026-09-30",
@@ -367,6 +417,15 @@
     "process": "X6Game-Win64-Shipping.exe",
     "color": "#E8729A",
     "monthlySub": "Monthly Gifts",
+    "previous": {
+      "version": "2.9",
+      "version_duration": 28,
+      "second_phase_offset": 0,
+      "phase_characters": {
+        "1": [],
+        "2": []
+      }
+    },
     "current": {
       "version": "2.10",
       "version_start": "2026-09-24",
