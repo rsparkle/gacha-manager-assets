@@ -182,23 +182,8 @@
     "color": "#C9D400",
     "monthlySub": "Inter-Knot Membership",
     "current": {
-      "version": "3.2",
-      "version_start": "2026-09-09",
-      "version_duration": 42,
-      "second_phase_offset": 0,
-      "phase_characters": {
-        "1": [
-          "Claret"
-        ],
-        "2": [
-          "Roxy"
-        ]
-      },
-      "is_version_duration_confirmed": true
-    },
-    "next": {
       "version": "3.3",
-      "future_livestream_version": "3.4",
+      "version_start": "2026-10-21",
       "version_duration": 41,
       "second_phase_offset": 0,
       "phase_characters": {
@@ -207,6 +192,22 @@
         ],
         "2": [
           "Severian"
+        ]
+      },
+      "is_version_duration_confirmed": true
+    },
+    "next": {
+      "version": "3.4",
+      "future_livestream_version": "3.5",
+      "version_duration": 42,
+      "second_phase_offset": 0,
+      "phase_characters": {
+        "1": [
+          "Sunbringer"
+        ],
+        "2": [
+          "Kafka",
+          "Robin"
         ]
       },
       "is_version_duration_confirmed": false
