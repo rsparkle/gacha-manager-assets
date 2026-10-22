@@ -14,7 +14,8 @@
         ],
         "2": []
       },
-      "livestream_date": null
+      "livestream_date": null,
+      "special_phases": []
     },
     "current": {
       "version": "7.1",
@@ -29,7 +30,8 @@
         "2": []
       },
       "is_version_duration_confirmed": true,
-      "livestream_date": null
+      "livestream_date": null,
+      "special_phases": []
     },
     "next": {
       "version": "7.2",
@@ -43,7 +45,8 @@
         "2": []
       },
       "is_version_duration_confirmed": true,
-      "livestream_date": null
+      "livestream_date": null,
+      "special_phases": []
     },
     "has_uid_pattern": true,
     "uid_digits": 9,
@@ -118,7 +121,8 @@
           "Aventurine Waveflair"
         ]
       },
-      "livestream_date": null
+      "livestream_date": null,
+      "special_phases": []
     },
     "current": {
       "version": "4.6",
@@ -132,7 +136,8 @@
         "2": []
       },
       "is_version_duration_confirmed": true,
-      "livestream_date": null
+      "livestream_date": null,
+      "special_phases": []
     },
     "next": {
       "version": "4.7",
@@ -146,7 +151,8 @@
         "2": []
       },
       "is_version_duration_confirmed": true,
-      "livestream_date": null
+      "livestream_date": null,
+      "special_phases": []
     },
     "has_uid_pattern": true,
     "uid_digits": 9,
@@ -221,7 +227,8 @@
           "Roxy"
         ]
       },
-      "livestream_date": null
+      "livestream_date": null,
+      "special_phases": []
     },
     "current": {
       "version": "3.3",
@@ -237,7 +244,8 @@
         ]
       },
       "is_version_duration_confirmed": true,
-      "livestream_date": null
+      "livestream_date": null,
+      "special_phases": []
     },
     "next": {
       "version": "3.4",
@@ -248,13 +256,19 @@
         "1": [
           "Sunbringer"
         ],
-        "2": [
-          "Kafka",
-          "Robin"
-        ]
+        "2": []
       },
       "is_version_duration_confirmed": false,
-      "livestream_date": null
+      "livestream_date": null,
+      "special_phases": [
+        {
+          "date": "2026-12-01",
+          "characters": [
+            "Kafka",
+            "Robin"
+          ]
+        }
+      ]
     },
     "has_uid_pattern": true,
     "uid_digits": 9,
@@ -329,7 +343,8 @@
           "Linko"
         ]
       },
-      "livestream_date": null
+      "livestream_date": null,
+      "special_phases": []
     },
     "current": {
       "version": "1.4",
@@ -345,7 +360,8 @@
         ]
       },
       "is_version_duration_confirmed": true,
-      "livestream_date": null
+      "livestream_date": null,
+      "special_phases": []
     },
     "next": {
       "version": "1.5",
@@ -361,7 +377,8 @@
         ]
       },
       "is_version_duration_confirmed": false,
-      "livestream_date": null
+      "livestream_date": null,
+      "special_phases": []
     },
     "has_uid_pattern": false,
     "uid_digits": 12,
@@ -433,7 +450,8 @@
         "1": [],
         "2": []
       },
-      "livestream_date": null
+      "livestream_date": null,
+      "special_phases": []
     },
     "current": {
       "version": "2.10",
@@ -445,7 +463,8 @@
         "2": []
       },
       "is_version_duration_confirmed": true,
-      "livestream_date": null
+      "livestream_date": null,
+      "special_phases": []
     },
     "next": {
       "version": "2.11",
@@ -457,7 +476,8 @@
         "2": []
       },
       "is_version_duration_confirmed": false,
-      "livestream_date": null
+      "livestream_date": null,
+      "special_phases": []
     },
     "has_uid_pattern": true,
     "uid_digits": 9,
