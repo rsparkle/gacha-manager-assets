@@ -82,6 +82,7 @@
     },
     "drip": {
       "anchor": "patch",
+      "time": "12:00",
       "week_start_rule": true,
       "distance": 7
     },
@@ -188,6 +189,7 @@
     },
     "drip": {
       "anchor": "livestream",
+      "time": "12:00",
       "week_start_rule": true,
       "distance": -4
     },
@@ -304,6 +306,7 @@
     },
     "drip": {
       "anchor": "patch",
+      "time": "11:00",
       "week_start_rule": false,
       "distance": 3
     },
@@ -410,11 +413,12 @@
       "distance": 28
     },
     "character_trailer": {
-      "time": "12:00",
+      "time": "11:00",
       "distance": 3
     },
     "drip": {
       "anchor": "patch",
+      "time": "11:00",
       "week_start_rule": false,
       "distance": 4
     },
