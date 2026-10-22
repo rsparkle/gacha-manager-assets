@@ -13,7 +13,8 @@
           "Odette"
         ],
         "2": []
-      }
+      },
+      "livestream_date": null
     },
     "current": {
       "version": "7.1",
@@ -27,7 +28,8 @@
         ],
         "2": []
       },
-      "is_version_duration_confirmed": true
+      "is_version_duration_confirmed": true,
+      "livestream_date": null
     },
     "next": {
       "version": "7.2",
@@ -40,7 +42,8 @@
         ],
         "2": []
       },
-      "is_version_duration_confirmed": true
+      "is_version_duration_confirmed": true,
+      "livestream_date": null
     },
     "has_uid_pattern": true,
     "uid_digits": 9,
@@ -68,8 +71,7 @@
     "livestream": {
       "is_predictable": true,
       "schedule": "hoyo",
-      "time": "20:00",
-      "date": null
+      "time": "20:00"
     },
     "character_trailer": {
       "time": "12:00",
@@ -115,7 +117,8 @@
         "2": [
           "Aventurine Waveflair"
         ]
-      }
+      },
+      "livestream_date": null
     },
     "current": {
       "version": "4.6",
@@ -128,7 +131,8 @@
         ],
         "2": []
       },
-      "is_version_duration_confirmed": true
+      "is_version_duration_confirmed": true,
+      "livestream_date": null
     },
     "next": {
       "version": "4.7",
@@ -141,7 +145,8 @@
         ],
         "2": []
       },
-      "is_version_duration_confirmed": true
+      "is_version_duration_confirmed": true,
+      "livestream_date": null
     },
     "has_uid_pattern": true,
     "uid_digits": 9,
@@ -169,17 +174,16 @@
     "livestream": {
       "is_predictable": true,
       "schedule": "hoyo",
-      "time": "19:30",
-      "date": null
+      "time": "19:30"
     },
     "character_trailer": {
       "time": "12:00",
       "distance": 3
     },
     "drip": {
-      "anchor": "livestream",
+      "anchor": "secondPhase",
       "week_start_rule": true,
-      "distance": -4
+      "distance": 7
     },
     "servers": {
       "America": {
@@ -216,7 +220,8 @@
         "2": [
           "Roxy"
         ]
-      }
+      },
+      "livestream_date": null
     },
     "current": {
       "version": "3.3",
@@ -231,7 +236,8 @@
           "Severian"
         ]
       },
-      "is_version_duration_confirmed": true
+      "is_version_duration_confirmed": true,
+      "livestream_date": null
     },
     "next": {
       "version": "3.4",
@@ -247,7 +253,8 @@
           "Robin"
         ]
       },
-      "is_version_duration_confirmed": false
+      "is_version_duration_confirmed": false,
+      "livestream_date": null
     },
     "has_uid_pattern": true,
     "uid_digits": 9,
@@ -275,8 +282,7 @@
     "livestream": {
       "is_predictable": true,
       "schedule": "hoyo",
-      "time": "19:30",
-      "date": null
+      "time": "19:30"
     },
     "character_trailer": {
       "time": "12:00",
@@ -322,7 +328,8 @@
         "2": [
           "Linko"
         ]
-      }
+      },
+      "livestream_date": null
     },
     "current": {
       "version": "1.4",
@@ -337,7 +344,8 @@
           "Akane"
         ]
       },
-      "is_version_duration_confirmed": true
+      "is_version_duration_confirmed": true,
+      "livestream_date": null
     },
     "next": {
       "version": "1.5",
@@ -352,7 +360,8 @@
           "Exe"
         ]
       },
-      "is_version_duration_confirmed": false
+      "is_version_duration_confirmed": false,
+      "livestream_date": null
     },
     "has_uid_pattern": false,
     "uid_digits": 12,
@@ -381,7 +390,6 @@
       "is_predictable": true,
       "schedule": "distance",
       "time": "19:30",
-      "date": null,
       "distance": 28
     },
     "character_trailer": {
@@ -424,7 +432,8 @@
       "phase_characters": {
         "1": [],
         "2": []
-      }
+      },
+      "livestream_date": null
     },
     "current": {
       "version": "2.10",
@@ -435,7 +444,8 @@
         "1": [],
         "2": []
       },
-      "is_version_duration_confirmed": true
+      "is_version_duration_confirmed": true,
+      "livestream_date": null
     },
     "next": {
       "version": "2.11",
@@ -446,7 +456,8 @@
         "1": [],
         "2": []
       },
-      "is_version_duration_confirmed": false
+      "is_version_duration_confirmed": false,
+      "livestream_date": null
     },
     "has_uid_pattern": true,
     "uid_digits": 9,
@@ -473,8 +484,7 @@
     },
     "livestream": {
       "is_predictable": false,
-      "time": "20:00",
-      "date": null
+      "time": "20:00"
     },
     "patch_trailer_distance": 5,
     "trailer_time": "12:00",
