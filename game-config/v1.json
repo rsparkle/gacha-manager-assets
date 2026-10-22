@@ -181,9 +181,9 @@
       "distance": 3
     },
     "drip": {
-      "anchor": "secondPhase",
+      "anchor": "livestream",
       "week_start_rule": true,
-      "distance": 7
+      "distance": -4
     },
     "servers": {
       "America": {
