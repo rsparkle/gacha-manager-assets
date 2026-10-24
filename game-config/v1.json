@@ -85,7 +85,8 @@
       "time": "12:00",
       "week_start_rule": true,
       "distance": 7,
-      "same_day": false
+      "same_day": false,
+      "confirmed": true
     },
     "servers": {
       "America": {
@@ -193,7 +194,8 @@
       "time": "12:00",
       "week_start_rule": true,
       "distance": -4,
-      "same_day": false
+      "same_day": false,
+      "confirmed": true
     },
     "servers": {
       "America": {
@@ -258,7 +260,7 @@
       "second_phase_offset": 0,
       "phase_characters": {
         "1": [
-          "Sunbringer?"
+          "Sunbringer"
         ],
         "2": []
       },
@@ -268,8 +270,8 @@
         {
           "date": "2026-12-01",
           "characters": [
-            "Kafka?",
-            "Robin?"
+            "Kafka",
+            "Robin"
           ]
         }
       ]
@@ -311,7 +313,8 @@
       "time": "11:00",
       "week_start_rule": false,
       "distance": 3,
-      "same_day": true
+      "same_day": true,
+      "confirmed": false
     },
     "servers": {
       "America": {
@@ -424,7 +427,8 @@
       "time": "11:00",
       "week_start_rule": false,
       "distance": 4,
-      "same_day": false
+      "same_day": false,
+      "confirmed": true
     },
     "servers": {
       "America": {
