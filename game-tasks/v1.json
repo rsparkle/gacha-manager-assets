@@ -130,8 +130,8 @@
         "type": "Endgame",
         "reset": {
           "kind": "interval",
-          "anchor": "2026-09-14",
-          "intervalDays": 35,
+          "anchor": "2026-10-19",
+          "intervalDays": 42,
           "patchCollision": true
         }
       },
@@ -235,7 +235,8 @@
           "kind": "window",
           "startDate": "2026-03-24",
           "endDate": null,
-          "startTime": "maintenanceEnd"
+          "startTime": "maintenanceEnd",
+          "endTime": "maintenanceStart"
         }
       },
       {
@@ -246,7 +247,8 @@
           "kind": "window",
           "startDate": "2026-02-06",
           "endDate": null,
-          "startTime": "maintenanceEnd"
+          "startTime": "maintenanceEnd",
+          "endTime": "maintenanceStart"
         }
       },
       {
@@ -258,7 +260,7 @@
           "startDate": "2026-10-21",
           "endDate": null,
           "startTime": "maintenanceEnd",
-          "endTime": "maintenanceEnd"
+          "endTime": "maintenanceStart"
         }
       },
       {
