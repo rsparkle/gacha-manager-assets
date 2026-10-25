@@ -433,11 +433,13 @@
     "servers": {
       "America": {
         "uid_prefix": null,
-        "utc_offset": -4
+        "utc_offset": -4,
+        "timezone": "America/New_York"
       },
       "Europe": {
         "uid_prefix": null,
-        "utc_offset": 2
+        "utc_offset": 2,
+        "timezone": "Europe/Berlin"
       },
       "Asia": {
         "uid_prefix": null,
@@ -531,6 +533,10 @@
       },
       "Asia": {
         "uid_prefix": 4,
+        "utc_offset": 8
+      },
+      "HK/TW/Macau": {
+        "uid_prefix": 8,
         "utc_offset": 8
       }
     }
