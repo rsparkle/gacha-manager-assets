@@ -274,7 +274,8 @@
             "Robin"
           ]
         }
-      ]
+      ],
+      "special_phase_confirmed": false
     },
     "has_uid_pattern": true,
     "uid_digits": 9,
