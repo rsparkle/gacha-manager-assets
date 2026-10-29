@@ -360,7 +360,8 @@
         "reset": {
           "kind": "window",
           "startDate": "2026-10-29",
-          "endDate": "patchEnd"
+          "endDate": "patchEnd",
+          "endTime": "dailyReset"
         }
       }
     ]
