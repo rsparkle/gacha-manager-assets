@@ -239,7 +239,7 @@
     "current": {
       "version": "3.3",
       "version_start": "2026-10-21",
-      "version_duration": 41,
+      "version_duration": 42,
       "second_phase_offset": 0,
       "phase_characters": {
         "1": [
@@ -268,7 +268,7 @@
       "livestream_date": null,
       "special_phases": [
         {
-          "date": "2026-12-01",
+          "date": "2026-12-02",
           "characters": [
             "Kafka",
             "Robin"

@@ -280,7 +280,7 @@
         "reset": {
           "kind": "window",
           "startDate": "2026-10-28",
-          "endDate": "patchEnd-2"
+          "endDate": "2026-11-16"
         }
       }
     ]
