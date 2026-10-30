@@ -397,8 +397,8 @@
         }
       },
       {
-        "id": "in-adventure-a-golden-city-of-dreams",
-        "label": "Adventure! A Golden City of Dreams",
+        "id": "in-main-quest",
+        "label": "The Snow Remembers",
         "type": "Event",
         "reset": {
           "kind": "window",
@@ -407,8 +407,8 @@
         }
       },
       {
-        "id": "in-when-petal-rain-meets-ink",
-        "label": "When Petal Rain Meets Ink",
+        "id": "in-main-event",
+        "label": "Mira Building Open Day",
         "type": "Event",
         "reset": {
           "kind": "window",
@@ -417,12 +417,72 @@
         }
       },
       {
-        "id": "in-justice-in-golden-light",
-        "label": "Justice In Golden Light",
+        "id": "in-side-event-1",
+        "label": "Touring Sleigh",
+        "type": "Event",
+        "reset": {
+          "kind": "window",
+          "startDate": "patchStart",
+          "endDate": "patchEnd"
+        }
+      },
+      {
+        "id": "time-to-collect-1",
+        "label": "Snowborne Sprigs",
+        "type": "Event",
+        "reset": {
+          "kind": "window",
+          "startDate": "patchStart",
+          "endDate": "patchEnd"
+        }
+      },
+      {
+        "id": "time-to-collect-2",
+        "label": "Writing Toward Tomorrow",
         "type": "Event",
         "reset": {
           "kind": "window",
           "startDate": "secondPhase",
+          "endDate": "patchEnd"
+        }
+      },
+      {
+        "id": "collab-event-3",
+        "label": "Adventure Among Stars",
+        "type": "Event",
+        "reset": {
+          "kind": "window",
+          "startDate": "patchStart",
+          "endDate": "patchEnd"
+        }
+      },
+      {
+        "id": "collab-event-2",
+        "label": "Planet Roaming",
+        "type": "Event",
+        "reset": {
+          "kind": "window",
+          "startDate": "patchStart",
+          "endDate": "patchEnd"
+        }
+      },
+      {
+        "id": "collab-event-1",
+        "label": "Guiding Birds",
+        "type": "Event",
+        "reset": {
+          "kind": "window",
+          "startDate": "patchStart",
+          "endDate": "patchEnd"
+        }
+      },
+      {
+        "id": "collab-quest",
+        "label": "For the Child You Once Were",
+        "type": "Event",
+        "reset": {
+          "kind": "window",
+          "startDate": "patchStart",
           "endDate": "patchEnd"
         }
       },
