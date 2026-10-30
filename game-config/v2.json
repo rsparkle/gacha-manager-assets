@@ -4,6 +4,13 @@
     "process": "GenshinImpact.exe",
     "color": "#C8922A",
     "monthlySub": "Welkin",
+    "redemption_codes_url": "https://genshin.hoyoverse.com/en/gift?code={code}",
+    "active_codes": [
+      {
+        "code": "PJ2KEBRAYSRM",
+        "deadline": null
+      }
+    ],
     "patches": [
       {
         "version": "6.6",
@@ -166,6 +173,21 @@
     "process": "StarRail.exe",
     "color": "#4A9ECD",
     "monthlySub": "Express Supply Pass",
+    "redemption_codes_url": "https://hsr.hoyoverse.com/gift?code={code}",
+    "active_codes": [
+      {
+        "code": "AHABLESSYOU",
+        "deadline": "2026-10-31T15:59:00.000Z"
+      },
+      {
+        "code": "NEVERGONNAMAKE",
+        "deadline": "2026-10-31T15:59:00.000Z"
+      },
+      {
+        "code": "NEVERGONNAGIVE",
+        "deadline": "2026-10-31T15:59:00.000Z"
+      }
+    ],
     "patches": [
       {
         "version": "4.2",
@@ -348,6 +370,13 @@
     "process": "ZenlessZoneZero.exe",
     "color": "#C9D400",
     "monthlySub": "Inter-Knot Membership",
+    "redemption_codes_url": "https://zenless.hoyoverse.com/redemption?code={code}",
+    "active_codes": [
+      {
+        "code": "JRNY2SKY",
+        "deadline": "2026-10-11T15:59:00.000Z"
+      }
+    ],
     "patches": [
       {
         "version": "2.8",
@@ -536,6 +565,21 @@
     "process": "HTGame.exe",
     "color": "#3ABFB0",
     "monthlySub": "Riftcrystal Permit",
+    "redemption_codes_url": null,
+    "active_codes": [
+      {
+        "code": "INVALIDNUMBER",
+        "deadline": "2026-11-02T07:59:00.000Z"
+      },
+      {
+        "code": "HIOLDFRIEND",
+        "deadline": "2026-11-02T07:59:00.000Z"
+      },
+      {
+        "code": "EXENORESPONSE",
+        "deadline": "2026-11-02T07:59:00.000Z"
+      }
+    ],
     "patches": [
       {
         "version": "1.0",
@@ -712,6 +756,8 @@
     "process": "X6Game-Win64-Shipping.exe",
     "color": "#E8729A",
     "monthlySub": "Monthly Gifts",
+    "redemption_codes_url": "https://infinitynikki.infoldgames.com/proj/redeem_code.html",
+    "active_codes": [],
     "patches": [
       {
         "version": "2.5",
@@ -830,8 +876,8 @@
     "weekly_reset_weekday": 1,
     "maintenance": {
       "first_phase": {
-        "start": "03:50",
-        "duration": "07:10"
+        "start": "01:30",
+        "duration": "08:30"
       },
       "second_phase": {
         "start": "10:00",

@@ -398,7 +398,7 @@
       },
       {
         "id": "in-main-quest",
-        "label": "The Snow Remembers",
+        "label": "Main and Side Quests",
         "type": "Event",
         "reset": {
           "kind": "window",
