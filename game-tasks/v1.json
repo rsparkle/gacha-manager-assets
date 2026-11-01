@@ -403,7 +403,8 @@
         "reset": {
           "kind": "window",
           "startDate": "patchStart",
-          "endDate": "patchEnd"
+          "endDate": "patchEnd",
+          "endTime": "maintenanceStart"
         }
       },
       {
@@ -413,7 +414,8 @@
         "reset": {
           "kind": "window",
           "startDate": "patchStart",
-          "endDate": "patchEnd"
+          "endDate": "patchEnd",
+          "endTime": "maintenanceStart"
         }
       },
       {
@@ -423,7 +425,8 @@
         "reset": {
           "kind": "window",
           "startDate": "patchStart",
-          "endDate": "patchEnd"
+          "endDate": "patchEnd",
+          "endTime": "maintenanceStart"
         }
       },
       {
@@ -433,7 +436,8 @@
         "reset": {
           "kind": "window",
           "startDate": "patchStart",
-          "endDate": "patchEnd"
+          "endDate": "patchEnd",
+          "endTime": "maintenanceStart"
         }
       },
       {
@@ -443,7 +447,8 @@
         "reset": {
           "kind": "window",
           "startDate": "secondPhase",
-          "endDate": "patchEnd"
+          "endDate": "patchEnd",
+          "endTime": "maintenanceStart"
         }
       },
       {
@@ -453,7 +458,8 @@
         "reset": {
           "kind": "window",
           "startDate": "patchStart",
-          "endDate": "patchEnd"
+          "endDate": "patchEnd",
+          "endTime": "maintenanceStart"
         }
       },
       {
@@ -463,7 +469,8 @@
         "reset": {
           "kind": "window",
           "startDate": "patchStart",
-          "endDate": "patchEnd"
+          "endDate": "patchEnd",
+          "endTime": "maintenanceStart"
         }
       },
       {
@@ -473,7 +480,8 @@
         "reset": {
           "kind": "window",
           "startDate": "patchStart",
-          "endDate": "patchEnd"
+          "endDate": "patchEnd",
+          "endTime": "maintenanceStart"
         }
       },
       {
@@ -483,7 +491,8 @@
         "reset": {
           "kind": "window",
           "startDate": "patchStart",
-          "endDate": "patchEnd"
+          "endDate": "patchEnd",
+          "endTime": "maintenanceStart"
         }
       },
       {
@@ -493,7 +502,8 @@
         "reset": {
           "kind": "window",
           "startDate": "secondPhase",
-          "endDate": "patchEnd"
+          "endDate": "patchEnd",
+          "endTime": "maintenanceStart"
         }
       }
     ]
