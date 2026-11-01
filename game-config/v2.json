@@ -877,7 +877,7 @@
     "maintenance": {
       "first_phase": {
         "start": "01:30",
-        "duration": "08:30"
+        "duration": "09:30"
       },
       "second_phase": {
         "start": "10:00",
