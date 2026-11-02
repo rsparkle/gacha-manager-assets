@@ -523,7 +523,7 @@
     },
     "character_trailer": {
       "time": "12:00",
-      "distance": 4
+      "distance": 5
     },
     "drip": {
       "anchor": "patch",
@@ -846,7 +846,7 @@
           "1": [],
           "2": []
         },
-        "is_version_duration_confirmed": false,
+        "is_version_duration_confirmed": true,
         "livestream_date": null,
         "special_phases": []
       },
@@ -864,7 +864,8 @@
         "special_phases": []
       },
       {
-        "version": "3.1"
+        "version": "3.1",
+        "show_patch": false
       }
     ],
     "has_uid_pattern": true,
