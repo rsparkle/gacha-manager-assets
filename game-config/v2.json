@@ -91,7 +91,20 @@
         "special_phases": []
       },
       {
-        "version": "7.3"
+        "version": "7.3",
+        "version_start": "2026-12-16",
+        "version_duration": 42,
+        "second_phase_offset": -1,
+        "phase_characters": {
+          "1": [],
+          "2": []
+        },
+        "is_version_duration_confirmed": true,
+        "livestream_date": null,
+        "special_phases": []
+      },
+      {
+        "version": "7.4"
       }
     ],
     "has_uid_pattern": true,

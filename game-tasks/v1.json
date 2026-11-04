@@ -53,34 +53,34 @@
       },
       {
         "id": "gi-main-event",
-        "label": "Silverwing in Pursuit of the Moon",
+        "label": "The Grand Defense: Defy the Unjust Judgment",
         "type": "Event",
         "reset": {
           "kind": "window",
-          "startDate": "2026-09-24",
-          "endDate": "2026-10-12"
+          "startDate": "patchStart",
+          "endDate": "patchEnd",
+          "startTime": "maintenanceEnd",
+          "endTime": "maintenanceStart"
         }
       },
       {
         "id": "gi-side-event-1",
-        "label": "Predictive Victory Dynamics",
+        "label": "Stress Block Smashing Project",
         "type": "Event",
         "reset": {
           "kind": "window",
-          "startDate": "2026-10-12",
-          "endDate": "2026-10-20",
-          "startTime": "10:00@global",
-          "endTime": "09:59@global"
+          "startDate": "2026-11-20",
+          "endDate": "2026-11-30"
         }
       },
       {
         "id": "gi-side-event-2",
-        "label": "Carefree Snowball Fight",
+        "label": "Frames of Fierce Splendor",
         "type": "Event",
         "reset": {
           "kind": "window",
-          "startDate": "2026-10-21",
-          "endDate": "2026-11-02"
+          "startDate": "2026-11-27",
+          "endDate": "2026-12-07"
         }
       }
     ]
