@@ -96,8 +96,12 @@
         "version_duration": 42,
         "second_phase_offset": -1,
         "phase_characters": {
-          "1": [],
-          "2": []
+          "1": [
+            "Anastasya"
+          ],
+          "2": [
+            "Danica"
+          ]
         },
         "is_version_duration_confirmed": true,
         "livestream_date": null,
