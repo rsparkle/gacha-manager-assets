@@ -82,6 +82,51 @@
           "startDate": "2026-11-27",
           "endDate": "2026-12-07"
         }
+      },
+      {
+        "id": "gi-main-quest",
+        "label": "Main Quest",
+        "type": "Event",
+        "reset": {
+          "kind": "window",
+          "startDate": "patchStart",
+          "endDate": "patchEnd",
+          "startTime": "maintenanceEnd"
+        }
+      },
+      {
+        "id": "gi-exploration",
+        "label": "Exploration Rewards",
+        "type": "Event",
+        "reset": {
+          "kind": "window",
+          "startDate": "2026-11-04",
+          "endDate": "2027-01-27",
+          "startTime": "maintenanceEnd"
+        }
+      },
+      {
+        "id": "gi-music",
+        "label": "Encounter: Interlude of the Long Journey",
+        "type": "Event",
+        "reset": {
+          "kind": "window",
+          "startDate": "patchStart",
+          "endDate": "patchEnd",
+          "startTime": "maintenanceEnd"
+        }
+      },
+      {
+        "id": "gi-miliastra",
+        "label": "Wonderland Treasures",
+        "type": "Event",
+        "reset": {
+          "kind": "window",
+          "startDate": "patchStart",
+          "endDate": "patchEnd-2",
+          "startTime": "dailyReset",
+          "endTime": "dailyReset"
+        }
       }
     ]
   },
@@ -302,6 +347,18 @@
           "kind": "window",
           "startDate": "2026-11-16",
           "endDate": "patchEnd-2"
+        }
+      },
+      {
+        "id": "zzz-side-event-4",
+        "label": "Enigma of the Labyrinth: Spooky Trial",
+        "type": "Event",
+        "reset": {
+          "kind": "window",
+          "startDate": "patchStart+1",
+          "endDate": "patchEnd",
+          "startTime": "maintenanceEnd",
+          "endTime": "maintenanceStart"
         }
       }
     ]
