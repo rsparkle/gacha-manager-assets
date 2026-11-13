@@ -293,6 +293,16 @@
           "startDate": "2026-11-11",
           "endDate": "patchEnd-2"
         }
+      },
+      {
+        "id": "zzz-side-event-3",
+        "label": "Repair! Drifting Art",
+        "type": "Event",
+        "reset": {
+          "kind": "window",
+          "startDate": "2026-11-16",
+          "endDate": "patchEnd-2"
+        }
       }
     ]
   },
