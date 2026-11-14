@@ -720,7 +720,7 @@
             "Exe"
           ]
         },
-        "is_version_duration_confirmed": false,
+        "is_version_duration_confirmed": true,
         "livestream_date": null,
         "special_phases": []
       },
