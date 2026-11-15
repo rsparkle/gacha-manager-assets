@@ -730,8 +730,12 @@
         "version_duration": 42,
         "second_phase_offset": 0,
         "phase_characters": {
-          "1": [],
-          "2": []
+          "1": [
+            "Nitsa"
+          ],
+          "2": [
+            "Ellie"
+          ]
         },
         "is_version_duration_confirmed": false,
         "livestream_date": null,
