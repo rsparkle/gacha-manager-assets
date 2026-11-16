@@ -156,7 +156,7 @@
       "week_start_rule": true,
       "distance": 7,
       "same_day": false,
-      "confirmed": true
+      "confirmed": false
     },
     "servers": {
       "America": {
@@ -374,8 +374,8 @@
     "drip": {
       "anchor": "livestream",
       "time": "12:00",
-      "week_start_rule": true,
-      "distance": -4,
+      "week_start_rule": false,
+      "distance": -3,
       "same_day": false,
       "confirmed": true
     },
