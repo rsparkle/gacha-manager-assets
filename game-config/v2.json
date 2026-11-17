@@ -922,7 +922,7 @@
           "2": []
         },
         "is_version_duration_confirmed": false,
-        "livestream_date": null,
+        "livestream_date": "2026-12-22",
         "special_phases": []
       },
       {
@@ -957,7 +957,7 @@
     },
     "livestream": {
       "is_predictable": false,
-      "time": "20:00"
+      "time": "10:00"
     },
     "patch_trailer_distance": 5,
     "trailer_time": "12:00",
