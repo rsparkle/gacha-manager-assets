@@ -909,7 +909,7 @@
           "2": []
         },
         "is_version_duration_confirmed": true,
-        "livestream_date": null,
+        "livestream_date": "2026-11-22",
         "special_phases": []
       },
       {
@@ -922,7 +922,7 @@
           "2": []
         },
         "is_version_duration_confirmed": false,
-        "livestream_date": "2026-12-22",
+        "livestream_date": null,
         "special_phases": []
       },
       {
