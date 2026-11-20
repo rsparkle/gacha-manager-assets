@@ -511,7 +511,8 @@
         "second_phase_offset": 0,
         "phase_characters": {
           "1": [
-            "Sunbringer"
+            "Sunbringer",
+            "Robin"
           ],
           "2": []
         },
@@ -519,10 +520,9 @@
         "livestream_date": null,
         "special_phases": [
           {
-            "date": "2026-12-23",
+            "date": "2027-01-01",
             "characters": [
-              "Kafka",
-              "Robin"
+              "Kafka"
             ]
           }
         ],
