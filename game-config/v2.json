@@ -414,8 +414,8 @@
     "redemption_codes_url": "https://zenless.hoyoverse.com/redemption?code={code}",
     "active_codes": [
       {
-        "code": "JRNY2SKY",
-        "deadline": "2026-10-11T15:59:00.000Z"
+        "code": "SUNCHASER",
+        "deadline": "2026-11-22T15:59:00.000Z"
       }
     ],
     "patches": [
