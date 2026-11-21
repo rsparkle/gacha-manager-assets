@@ -24,7 +24,7 @@
         "version": "6.6",
         "version_start": "2026-05-20",
         "version_duration": 42,
-        "second_phase_offset": 0,
+        "second_phase_offset": -1,
         "phase_characters": {
           "1": [
             "Nicole"
@@ -41,7 +41,7 @@
         "version": "6.7",
         "version_start": "2026-07-01",
         "version_duration": 42,
-        "second_phase_offset": 0,
+        "second_phase_offset": -1,
         "phase_characters": {
           "1": [
             "Sandrone"
@@ -222,7 +222,7 @@
         "version": "4.2",
         "version_start": "2026-04-22",
         "version_duration": 40,
-        "second_phase_offset": 0,
+        "second_phase_offset": 1,
         "phase_characters": {
           "1": [
             "Silver Wolf LV.999"
@@ -239,7 +239,7 @@
         "version": "4.3",
         "version_start": "2026-06-01",
         "version_duration": 44,
-        "second_phase_offset": 0,
+        "second_phase_offset": 1,
         "phase_characters": {
           "1": [
             "Mortenax Blade"
@@ -278,7 +278,7 @@
         "version": "4.5",
         "version_start": "2026-08-26",
         "version_duration": 33,
-        "second_phase_offset": 1,
+        "second_phase_offset": 0,
         "phase_characters": {
           "1": [
             "Robin Summeretto"
@@ -310,7 +310,7 @@
         "version": "4.7",
         "version_start": "2026-11-11",
         "version_duration": 42,
-        "second_phase_offset": 1,
+        "second_phase_offset": 0,
         "phase_characters": {
           "1": [
             "Aeon Aha"
@@ -325,7 +325,7 @@
         "version": "4.8",
         "version_start": "2026-12-23",
         "version_duration": 42,
-        "second_phase_offset": 1,
+        "second_phase_offset": 0,
         "phase_characters": {
           "1": [
             "Ellen",
@@ -635,8 +635,8 @@
       {
         "version": "1.0",
         "version_start": "2026-04-29",
-        "version_duration": 36,
-        "second_phase_offset": 0,
+        "version_duration": 35,
+        "second_phase_offset": -4,
         "phase_characters": {
           "1": [
             "Nanally"
@@ -651,9 +651,9 @@
       },
       {
         "version": "1.1",
-        "version_start": "2026-06-04",
-        "version_duration": 33,
-        "second_phase_offset": 0,
+        "version_start": "2026-06-03",
+        "version_duration": 35,
+        "second_phase_offset": 3,
         "phase_characters": {
           "1": [
             "Lacrimosa"
@@ -668,8 +668,8 @@
       },
       {
         "version": "1.2",
-        "version_start": "2026-07-07",
-        "version_duration": 43,
+        "version_start": "2026-07-08",
+        "version_duration": 42,
         "second_phase_offset": 0,
         "phase_characters": {
           "1": [
@@ -831,7 +831,7 @@
         "version": "2.5",
         "version_start": "2026-04-24",
         "version_duration": 35,
-        "second_phase_offset": 1,
+        "second_phase_offset": -1,
         "phase_characters": {
           "1": [],
           "2": []
@@ -844,7 +844,7 @@
         "version": "2.6",
         "version_start": "2026-05-29",
         "version_duration": 26,
-        "second_phase_offset": 1,
+        "second_phase_offset": 0,
         "phase_characters": {
           "1": [],
           "2": []
@@ -857,7 +857,7 @@
         "version": "2.7",
         "version_start": "2026-06-24",
         "version_duration": 23,
-        "second_phase_offset": 1,
+        "second_phase_offset": 0,
         "phase_characters": {
           "1": [],
           "2": []
@@ -870,7 +870,7 @@
         "version": "2.8",
         "version_start": "2026-07-17",
         "version_duration": 42,
-        "second_phase_offset": 1,
+        "second_phase_offset": 0,
         "phase_characters": {
           "1": [],
           "2": []
@@ -883,7 +883,7 @@
         "version": "2.9",
         "version_start": "2026-08-28",
         "version_duration": 27,
-        "second_phase_offset": 0,
+        "second_phase_offset": -1,
         "phase_characters": {
           "1": [],
           "2": []
