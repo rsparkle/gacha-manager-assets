@@ -520,25 +520,19 @@
         "version": "3.4",
         "version_start": "2026-12-02",
         "version_duration": 42,
-        "second_phase_offset": 0,
+        "second_phase_offset": 9,
         "phase_characters": {
           "1": [
             "Sunbringer",
             "Robin"
           ],
-          "2": []
+          "2": [
+            "Kafka"
+          ]
         },
-        "is_version_duration_confirmed": false,
+        "is_version_duration_confirmed": true,
         "livestream_date": null,
-        "special_phases": [
-          {
-            "date": "2027-01-01",
-            "characters": [
-              "Kafka"
-            ]
-          }
-        ],
-        "special_phase_confirmed": false
+        "special_phases": []
       },
       {
         "version": "3.5"
