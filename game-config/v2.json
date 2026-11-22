@@ -837,7 +837,28 @@
     "color": "#E8729A",
     "monthlySub": "Monthly Gifts",
     "redemption_codes_url": "https://infinitynikki.infoldgames.com/proj/redeem_code.html",
-    "active_codes": [],
+    "active_codes": [
+      {
+        "code": "INFINITYNIKKI3.0FULLSPEED",
+        "deadline": null
+      },
+      {
+        "code": "INFINITYNIKKI3.0LIGHT&DARK",
+        "deadline": null
+      },
+      {
+        "code": "INFINITYNIKKI3.0THISISART",
+        "deadline": null
+      },
+      {
+        "code": "TWOYEARSONANEWSTART",
+        "deadline": null
+      },
+      {
+        "code": "NIKKISEASTORYBOOK",
+        "deadline": null
+      }
+    ],
     "patches": [
       {
         "version": "2.5",
