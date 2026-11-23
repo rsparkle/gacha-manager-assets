@@ -338,7 +338,7 @@
         "special_phases": []
       },
       {
-        "version": "4.9"
+        "version": "5.0"
       }
     ],
     "has_uid_pattern": true,
@@ -764,7 +764,7 @@
         "special_phases": []
       },
       {
-        "version": "1.7"
+        "version": "2.0"
       }
     ],
     "has_uid_pattern": false,
@@ -856,6 +856,10 @@
       },
       {
         "code": "NIKKISEASTORYBOOK",
+        "deadline": null
+      },
+      {
+        "code": "BIRTHDAYWISHESFORNIKKI",
         "deadline": null
       }
     ],
