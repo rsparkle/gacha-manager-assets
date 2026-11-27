@@ -516,8 +516,19 @@
         }
       },
       {
-        "id": "in-main-event",
-        "label": "Mira Building Open Day",
+        "id": "in-birthday-quest",
+        "label": "Birthday Quest",
+        "type": "Event",
+        "reset": {
+          "kind": "window",
+          "startDate": "2026-12-06",
+          "endDate": "patchEnd",
+          "endTime": "maintenanceStart"
+        }
+      },
+      {
+        "id": "side-event-1",
+        "label": "Metropolis Dreams",
         "type": "Event",
         "reset": {
           "kind": "window",
@@ -527,8 +538,41 @@
         }
       },
       {
-        "id": "in-side-event-1",
-        "label": "Touring Sleigh",
+        "id": "side-event-2",
+        "label": "Gilded Art Journey",
+        "type": "Event",
+        "reset": {
+          "kind": "window",
+          "startDate": "patchStart",
+          "endDate": "patchEnd",
+          "endTime": "maintenanceStart"
+        }
+      },
+      {
+        "id": "side-event-3",
+        "label": "Rendezvous with the Stars",
+        "type": "Event",
+        "reset": {
+          "kind": "window",
+          "startDate": "patchStart",
+          "endDate": "patchEnd",
+          "endTime": "maintenanceStart"
+        }
+      },
+      {
+        "id": "side-event-4",
+        "label": "Midnight Fantasia",
+        "type": "Event",
+        "reset": {
+          "kind": "window",
+          "startDate": "secondPhase",
+          "endDate": "patchEnd",
+          "endTime": "maintenanceStart"
+        }
+      },
+      {
+        "id": "side-event-5",
+        "label": "Quiz Time, Artists!",
         "type": "Event",
         "reset": {
           "kind": "window",
@@ -539,62 +583,7 @@
       },
       {
         "id": "time-to-collect-1",
-        "label": "Snowborne Sprigs",
-        "type": "Event",
-        "reset": {
-          "kind": "window",
-          "startDate": "patchStart",
-          "endDate": "patchEnd",
-          "endTime": "maintenanceStart"
-        }
-      },
-      {
-        "id": "time-to-collect-2",
-        "label": "Writing Toward Tomorrow",
-        "type": "Event",
-        "reset": {
-          "kind": "window",
-          "startDate": "secondPhase",
-          "endDate": "patchEnd",
-          "endTime": "maintenanceStart"
-        }
-      },
-      {
-        "id": "collab-event-3",
-        "label": "Adventure Among Stars",
-        "type": "Event",
-        "reset": {
-          "kind": "window",
-          "startDate": "patchStart",
-          "endDate": "patchEnd",
-          "endTime": "maintenanceStart"
-        }
-      },
-      {
-        "id": "collab-event-2",
-        "label": "Planet Roaming",
-        "type": "Event",
-        "reset": {
-          "kind": "window",
-          "startDate": "patchStart",
-          "endDate": "patchEnd",
-          "endTime": "maintenanceStart"
-        }
-      },
-      {
-        "id": "collab-event-1",
-        "label": "Guiding Birds",
-        "type": "Event",
-        "reset": {
-          "kind": "window",
-          "startDate": "patchStart",
-          "endDate": "patchEnd",
-          "endTime": "maintenanceStart"
-        }
-      },
-      {
-        "id": "collab-quest",
-        "label": "For the Child You Once Were",
+        "label": "The Poetry of Wings",
         "type": "Event",
         "reset": {
           "kind": "window",
