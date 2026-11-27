@@ -958,7 +958,7 @@
       {
         "version": "3.0",
         "version_start": "2026-11-27",
-        "version_duration": 41,
+        "version_duration": 40,
         "second_phase_offset": 0,
         "phase_characters": {
           "1": [],
@@ -970,7 +970,7 @@
       },
       {
         "version": "3.1",
-        "version_start": "2027-01-07",
+        "version_start": "2027-01-06",
         "version_duration": 28,
         "second_phase_offset": 0,
         "phase_characters": {
@@ -995,8 +995,8 @@
     "weekly_reset_weekday": 1,
     "maintenance": {
       "first_phase": {
-        "start": "01:30",
-        "duration": "09:30"
+        "start": "03:50",
+        "duration": "07:10"
       },
       "second_phase": {
         "start": "10:00",
