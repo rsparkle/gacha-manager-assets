@@ -547,7 +547,12 @@
         "special_phases": []
       },
       {
-        "version": "3.5"
+        "version": "3.5",
+        "phase_characters": {
+          "1": [
+            "Cecilia"
+          ]
+        }
       }
     ],
     "has_uid_pattern": true,

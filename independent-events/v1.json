@@ -19,6 +19,12 @@
   },
   {
     "game": "Silver Palace",
+    "type": "livestream",
+    "date": "2026-12-05",
+    "time": "19:00"
+  },
+  {
+    "game": "Silver Palace",
     "type": "release",
     "date": "2026-12-14",
     "time": "10:00"
